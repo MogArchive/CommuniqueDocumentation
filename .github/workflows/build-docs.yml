@@ -20,10 +20,10 @@ jobs:
         include:
           - language: br
             instance: Writerside/br
-            artifact: webHelpBR-all.zip
+            artifact: webHelpBR2-all.zip
           - language: es
             instance: Writerside/es
-            artifact: webHelpES-all.zip
+            artifact: webHelpES2-all.zip
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -49,6 +49,7 @@ jobs:
         with:
           name: docs-${{ matrix.language }}
           path: artifacts/${{ matrix.artifact }}
+          if-no-files-found: error
           retention-days: 7
 
   deploy:
@@ -71,8 +72,8 @@ jobs:
       - name: Assemble multilingual site
         run: |
           mkdir -p site site/es
-          unzip -O UTF-8 -qq artifacts/webHelpBR-all.zip -d site
-          unzip -O UTF-8 -qq artifacts/webHelpES-all.zip -d site/es
+          unzip -O UTF-8 -qq artifacts/webHelpBR2-all.zip -d site
+          unzip -O UTF-8 -qq artifacts/webHelpES2-all.zip -d site/es
           cp Writerside/versions.json site/versions.json
           cp site/br-index.html site/communique5.html
           printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=communique5.html"><title>Communique 5.3</title><a href="communique5.html">Abrir documentação</a>\n' > site/index.html
