@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="br" name="Communique 5.3 — Português" start-page="br-index.md">
+    <toc-element topic="br-index.md">
+        <toc-element topic="br-glossario.md"/>
+        <toc-element topic="br-criacao-de-playlists.md"/>
+        <toc-element topic="br-regras-de-formatacao.md"/>
+        <toc-element topic="br-midia.md"/>
+        <toc-element topic="br-relatorios.md"/>
+        <toc-element topic="br-precos.md"/>
+        <toc-element topic="br-anunciantes.md"/>
+        <toc-element topic="br-campanha.md"/>
+        <toc-element topic="br-dashboard.md"/>
+        <toc-element topic="br-evento.md"/>
+        <toc-element topic="br-go-operation.md"/>
+        <toc-element topic="br-layer.md"/>
+        <toc-element topic="br-lobby-domination.md"/>
+        <toc-element topic="br-logs.md"/>
+        <toc-element topic="br-management.md"/>
+        <toc-element topic="br-monitoramento.md"/>
+        <toc-element topic="br-montagem-de-plug-ins.md"/>
+        <toc-element topic="br-notifications.md"/>
+        <toc-element topic="br-overlay.md"/>
+        <toc-element topic="br-players.md"/>
+        <toc-element topic="br-playlists.md"/>
+        <toc-element topic="br-theaters.md"/>
+        <toc-element topic="br-users.md"/>
+    </toc-element>
+</instance-profile>

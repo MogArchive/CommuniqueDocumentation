@@ -1,0 +1,292 @@
+[
+  {
+    "language": "br",
+    "archive": "CommuniqueBR.html.zip",
+    "pages": [
+      {
+        "source": "15663130.html",
+        "topic": "br-glossario.md",
+        "title": "Glossário",
+        "images": 63
+      },
+      {
+        "source": "19038210.html",
+        "topic": "br-criacao-de-playlists.md",
+        "title": "Criação de playlists",
+        "images": 29
+      },
+      {
+        "source": "20906067.html",
+        "topic": "br-regras-de-formatacao.md",
+        "title": "Regras de Formatação",
+        "images": 15
+      },
+      {
+        "source": "40796196.html",
+        "topic": "br-midia.md",
+        "title": "Mídia",
+        "images": 10
+      },
+      {
+        "source": "41648379.html",
+        "topic": "br-relatorios.md",
+        "title": "Relatórios",
+        "images": 26
+      },
+      {
+        "source": "43843652.html",
+        "topic": "br-precos.md",
+        "title": "Preços",
+        "images": 9
+      },
+      {
+        "source": "Anunciantes_40763475.html",
+        "topic": "br-anunciantes.md",
+        "title": "Anunciantes",
+        "images": 2
+      },
+      {
+        "source": "Campanha_41746687.html",
+        "topic": "br-campanha.md",
+        "title": "Campanha",
+        "images": 7
+      },
+      {
+        "source": "Dashboard_16351233.html",
+        "topic": "br-dashboard.md",
+        "title": "Dashboard",
+        "images": 7
+      },
+      {
+        "source": "Evento_40763491.html",
+        "topic": "br-evento.md",
+        "title": "Evento",
+        "images": 9
+      },
+      {
+        "source": "GO-Operation_41877655.html",
+        "topic": "br-go-operation.md",
+        "title": "GO Operation",
+        "images": 1
+      },
+      {
+        "source": "Layer_41943055.html",
+        "topic": "br-layer.md",
+        "title": "Layer",
+        "images": 9
+      },
+      {
+        "source": "Lobby-Domination_41582628.html",
+        "topic": "br-lobby-domination.md",
+        "title": "Lobby Domination",
+        "images": 7
+      },
+      {
+        "source": "Logs_43745342.html",
+        "topic": "br-logs.md",
+        "title": "Logs",
+        "images": 1
+      },
+      {
+        "source": "Management_15859890.html",
+        "topic": "br-management.md",
+        "title": "Management",
+        "images": 67
+      },
+      {
+        "source": "Monitoramento_42991742.html",
+        "topic": "br-monitoramento.md",
+        "title": "Monitoramento",
+        "images": 2
+      },
+      {
+        "source": "Montagem-de-Plug-ins_19038370.html",
+        "topic": "br-montagem-de-plug-ins.md",
+        "title": "Montagem de Plug-ins",
+        "images": 50
+      },
+      {
+        "source": "Notifications_15859872.html",
+        "topic": "br-notifications.md",
+        "title": "Notifications",
+        "images": 1
+      },
+      {
+        "source": "Overlay_40829016.html",
+        "topic": "br-overlay.md",
+        "title": "Overlay",
+        "images": 1
+      },
+      {
+        "source": "Players_17399889.html",
+        "topic": "br-players.md",
+        "title": "Players",
+        "images": 18
+      },
+      {
+        "source": "Playlists_24805378.html",
+        "topic": "br-playlists.md",
+        "title": "Playlists",
+        "images": 17
+      },
+      {
+        "source": "Theaters_17465434.html",
+        "topic": "br-theaters.md",
+        "title": "Theaters",
+        "images": 6
+      },
+      {
+        "source": "Users_17367057.html",
+        "topic": "br-users.md",
+        "title": "Users",
+        "images": 5
+      }
+    ],
+    "images": 362
+  },
+  {
+    "language": "es",
+    "archive": "CommuniqueES.html.zip",
+    "pages": [
+      {
+        "source": "40993165.html",
+        "topic": "es-dashboard-panel.md",
+        "title": "Dashboard / Panel",
+        "images": 7
+      },
+      {
+        "source": "40994313.html",
+        "topic": "es-criacao-de-playlists-es.md",
+        "title": "Criação de playlists ES",
+        "images": 29
+      },
+      {
+        "source": "40994956.html",
+        "topic": "es-playlists-lista-de-reproduccion.md",
+        "title": "Playlists - Lista de Reproducción",
+        "images": 16
+      },
+      {
+        "source": "42041389.html",
+        "topic": "es-campana.md",
+        "title": "Campaña",
+        "images": 6
+      },
+      {
+        "source": "Ajustes---Management_40993586.html",
+        "topic": "es-ajustes-management.md",
+        "title": "Ajustes - Management",
+        "images": 66
+      },
+      {
+        "source": "Anunciantes---ES_40995235.html",
+        "topic": "es-anunciantes-es.md",
+        "title": "Anunciantes - ES",
+        "images": 2
+      },
+      {
+        "source": "Cines---Teatro_40993988.html",
+        "topic": "es-cines-teatro.md",
+        "title": "Cines - Teatro",
+        "images": 6
+      },
+      {
+        "source": "DS---GO-Operation_42041369.html",
+        "topic": "es-ds-go-operation.md",
+        "title": "DS - GO Operation",
+        "images": 13
+      },
+      {
+        "source": "Evento-ES_42074181.html",
+        "topic": "es-evento-es.md",
+        "title": "Evento ES",
+        "images": 9
+      },
+      {
+        "source": "Glosario_40992773.html",
+        "topic": "es-glosario.md",
+        "title": "Glosario",
+        "images": 63
+      },
+      {
+        "source": "Layer-ES_42074253.html",
+        "topic": "es-layer-es.md",
+        "title": "Layer ES",
+        "images": 9
+      },
+      {
+        "source": "Lobby-Domination---LD_42074327.html",
+        "topic": "es-lobby-domination-ld.md",
+        "title": "Lobby Domination - LD",
+        "images": 7
+      },
+      {
+        "source": "Logs---Registros_44007425.html",
+        "topic": "es-logs-registros.md",
+        "title": "Logs - Registros",
+        "images": 1
+      },
+      {
+        "source": "Medios_40995152.html",
+        "topic": "es-medios.md",
+        "title": "Medios",
+        "images": 10
+      },
+      {
+        "source": "Monitoreo_43974657.html",
+        "topic": "es-monitoreo.md",
+        "title": "Monitoreo",
+        "images": 2
+      },
+      {
+        "source": "Montaje-de-Plug-ins_40994484.html",
+        "topic": "es-montaje-de-plug-ins.md",
+        "title": "Montaje de Plug-ins",
+        "images": 48
+      },
+      {
+        "source": "Notificaciones_40993562.html",
+        "topic": "es-notificaciones.md",
+        "title": "Notificaciones",
+        "images": 1
+      },
+      {
+        "source": "Overlay-ES_42074113.html",
+        "topic": "es-overlay-es.md",
+        "title": "Overlay ES",
+        "images": 1
+      },
+      {
+        "source": "Players---Reprodutores_40994045.html",
+        "topic": "es-players-reprodutores.md",
+        "title": "Players - Reprodutores",
+        "images": 16
+      },
+      {
+        "source": "Precios_44007445.html",
+        "topic": "es-precios.md",
+        "title": "Precios",
+        "images": 9
+      },
+      {
+        "source": "Reglas-de-Formato._40994867.html",
+        "topic": "es-reglas-de-formato.md",
+        "title": "Reglas de Formato.",
+        "images": 15
+      },
+      {
+        "source": "Reportes_43253761.html",
+        "topic": "es-reportes.md",
+        "title": "Reportes",
+        "images": 26
+      },
+      {
+        "source": "Usuarios_40993929.html",
+        "topic": "es-usuarios.md",
+        "title": "Usuarios",
+        "images": 5
+      }
+    ],
+    "images": 367
+  }
+]

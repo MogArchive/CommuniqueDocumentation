@@ -10,12 +10,19 @@ permissions:
   pages: write
 
 env:
-  INSTANCE: 'Writerside/hi'
-  ARTIFACT: 'webHelpHI2-all.zip'
   DOCKER_VERSION: '241.18775'
 
 jobs:
   build:
+    strategy:
+      matrix:
+        include:
+          - language: br
+            instance: Writerside/br
+            artifact: webHelpBR-all.zip
+          - language: es
+            instance: Writerside/es
+            artifact: webHelpES-all.zip
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
@@ -23,57 +30,57 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Build docs using Writerside Docker builder
+      - name: Build ${{ matrix.language }} documentation
         uses: JetBrains/writerside-github-action@v4
         with:
-          instance: ${{ env.INSTANCE }}
-          artifact: ${{ env.ARTIFACT }}
+          instance: ${{ matrix.instance }}
+          artifact: ${{ matrix.artifact }}
           docker-version: ${{ env.DOCKER_VERSION }}
 
-      - name: Save artifact with build results
-        uses: actions/upload-artifact@v4
-        with:
-          name: docs
-          path: |
-            artifacts/${{ env.ARTIFACT }}
-            artifacts/report.json
-          retention-days: 7
-  test:
-    needs: build
-    runs-on: ubuntu-latest
-    steps:
-      - name: Download artifacts
-        uses: actions/download-artifact@v4
-        with:
-          name: docs
-          path: artifacts
-
-      - name: Test documentation
+      - name: Test ${{ matrix.language }} documentation
         uses: JetBrains/writerside-checker-action@v1
         with:
-          instance: ${{ env.INSTANCE }}
+          instance: ${{ matrix.instance }}
+
+      - name: Save ${{ matrix.language }} artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: docs-${{ matrix.language }}
+          path: artifacts/${{ matrix.artifact }}
+          retention-days: 7
+
   deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
-    needs: [build, test]
+    needs: build
     runs-on: ubuntu-latest
     steps:
-      - name: Download artifacts
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download documentation artifacts
         uses: actions/download-artifact@v4
         with:
-          name: docs
+          pattern: docs-*
+          path: artifacts
+          merge-multiple: true
 
-      - name: Unzip artifact
-        run: unzip -O UTF-8 -qq '${{ env.ARTIFACT }}' -d dir
+      - name: Assemble multilingual site
+        run: |
+          mkdir -p site/br site/es
+          unzip -O UTF-8 -qq artifacts/webHelpBR-all.zip -d site/br
+          unzip -O UTF-8 -qq artifacts/webHelpES-all.zip -d site/es
+          cp Writerside/versions.json site/versions.json
+          printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=br/"><title>Communique 5.3</title><a href="br/">Abrir documentação</a>\n' > site/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
-      - name: Package and upload Pages artifact
+      - name: Package Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: dir
+          path: site
 
       - name: Deploy to GitHub Pages
         id: deployment

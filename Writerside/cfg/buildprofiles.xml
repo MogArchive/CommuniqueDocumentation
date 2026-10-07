@@ -13,8 +13,17 @@
 
         </variables>
     </build-profile>
-    <build-profile instance="c5">
+    <build-profile instance="br">
         <variables>
+            <versions-switcher>https://mogarchive.github.io/CommuniqueDocumentation/versions.json</versions-switcher>
+            <locale-code>pt-BR</locale-code>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
+    <build-profile instance="es">
+        <variables>
+            <versions-switcher>https://mogarchive.github.io/CommuniqueDocumentation/versions.json</versions-switcher>
+            <locale-code>es</locale-code>
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
