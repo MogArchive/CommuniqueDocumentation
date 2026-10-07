@@ -1,30 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
-<instance-profile id="es" name="Communique 5.3 — Español" start-page="es-index.md">
-    <toc-element topic="es-index.md">
-        <toc-element topic="es-dashboard-panel.md"/>
-        <toc-element topic="es-criacao-de-playlists-es.md"/>
-        <toc-element topic="es-playlists-lista-de-reproduccion.md"/>
-        <toc-element topic="es-campana.md"/>
-        <toc-element topic="es-ajustes-management.md"/>
-        <toc-element topic="es-anunciantes-es.md"/>
-        <toc-element topic="es-cines-teatro.md"/>
-        <toc-element topic="es-ds-go-operation.md"/>
-        <toc-element topic="es-evento-es.md"/>
-        <toc-element topic="es-glosario.md"/>
-        <toc-element topic="es-layer-es.md"/>
-        <toc-element topic="es-lobby-domination-ld.md"/>
-        <toc-element topic="es-logs-registros.md"/>
-        <toc-element topic="es-medios.md"/>
-        <toc-element topic="es-monitoreo.md"/>
-        <toc-element topic="es-montaje-de-plug-ins.md"/>
-        <toc-element topic="es-notificaciones.md"/>
-        <toc-element topic="es-overlay-es.md"/>
-        <toc-element topic="es-players-reprodutores.md"/>
-        <toc-element topic="es-precios.md"/>
-        <toc-element topic="es-reglas-de-formato.md"/>
-        <toc-element topic="es-reportes.md"/>
-        <toc-element topic="es-usuarios.md"/>
-    </toc-element>
+<instance-profile id="es" name="Communique 5.3 — Español" start-page="es-glosario.md">
+    <toc-element topic="es-glosario.md"/>
+    <toc-element topic="es-dashboard-panel.md"/>
+    <toc-element topic="es-criacao-de-playlists-es.md"/>
+    <toc-element topic="es-playlists-lista-de-reproduccion.md"/>
+    <toc-element topic="es-campana.md"/>
+    <toc-element topic="es-ajustes-management.md"/>
+    <toc-element topic="es-anunciantes-es.md"/>
+    <toc-element topic="es-cines-teatro.md"/>
+    <toc-element topic="es-ds-go-operation.md"/>
+    <toc-element topic="es-evento-es.md"/>
+    <toc-element topic="es-layer-es.md"/>
+    <toc-element topic="es-lobby-domination-ld.md"/>
+    <toc-element topic="es-logs-registros.md"/>
+    <toc-element topic="es-medios.md"/>
+    <toc-element topic="es-monitoreo.md"/>
+    <toc-element topic="es-montaje-de-plug-ins.md"/>
+    <toc-element topic="es-notificaciones.md"/>
+    <toc-element topic="es-overlay-es.md"/>
+    <toc-element topic="es-players-reprodutores.md"/>
+    <toc-element topic="es-precios.md"/>
+    <toc-element topic="es-reglas-de-formato.md"/>
+    <toc-element topic="es-reportes.md"/>
+    <toc-element topic="es-usuarios.md"/>
+    <toc-element topic="es-index.md"/>
 </instance-profile>

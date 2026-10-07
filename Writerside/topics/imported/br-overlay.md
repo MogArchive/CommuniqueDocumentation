@@ -10,7 +10,7 @@
 
 Seção destinada à programação e gerenciamento de **Evento**, **Layer**e **Lobby Domination.**
 
-<img src="imported/shared/f193beaa6664e596.png" alt="image-20251029-175752.png"/>
+<img src="../../images/imported/shared/f193beaa6664e596.png" alt="image-20251029-175752.png"/>
 
 Dividida em:
 

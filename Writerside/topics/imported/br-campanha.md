@@ -18,7 +18,7 @@ Nesta tela, o usuário pode visualizar todas as campanhas cadastradas, acompanha
 
 ## 1. Campanha - Tela inicial
 
-<img src="imported/shared/3a0b593f54f84a7a.png" alt="image-20251030-173516.png"/>
+<img src="../../images/imported/shared/3a0b593f54f84a7a.png" alt="image-20251030-173516.png"/>
 
 #### **1. Menu de Navegação**
 
@@ -26,7 +26,7 @@ Nesta tela, o usuário pode visualizar todas as campanhas cadastradas, acompanha
 - **Lista** - exibição detalhada de todas as campanhas cadastradas
 - **Calendário** - visualização das campanhas no formato de agenda/período
 
-#### **2. Botão** <img src="imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/> **(Criar Campanha)**
+#### **2. Botão** <img src="../../images/imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/> **(Criar Campanha)**
 
 Permite iniciar o cadastro de uma nova campanha publicitária.
 
@@ -57,7 +57,7 @@ Apresenta a listagem completa das campanhas registradas, com as seguintes coluna
 
 Clique no ícone
 
-<img src="imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/>
+<img src="../../images/imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/>
 
  para iniciar a **programação de*****Campanha***.
 
@@ -76,7 +76,7 @@ Nesta etapa é definido o cadastro inicial da campanha, com informações essenc
 
 Após preenchidos os dados, o usuário segue para as próximas etapas de configuração.
 
-<img src="imported/shared/051985d4bb93ad8b.png" alt="image-20251030-173724.png"/>
+<img src="../../images/imported/shared/051985d4bb93ad8b.png" alt="image-20251030-173724.png"/>
 
 #### **1. Nome**
 
@@ -133,7 +133,7 @@ As mídias correspondem aos arquivos previamente cadastrados no sistema.
 
 O objetivo desta tela é definir qual conteúdo será reproduzido durante a execução da campanha.
 
-<img src="imported/shared/c4de96357c0e8034.png" alt="image-20251030-174940.png"/>
+<img src="../../images/imported/shared/c4de96357c0e8034.png" alt="image-20251030-174940.png"/>
 
 #### **1. Busca**
 
@@ -185,7 +185,7 @@ Nesta etapa o usuário seleciona **players**onde a campanha será exibida.
 
 A seleção correta do player garante que a mídia escolhida será exibida no local desejado.
 
-<img src="imported/shared/82d306fd3905066e.png" alt="image-20251030-175724.png"/>
+<img src="../../images/imported/shared/82d306fd3905066e.png" alt="image-20251030-175724.png"/>
 
 #### **1. Campo “Buscar”**
 
@@ -254,7 +254,7 @@ Avança para a próxima etapa: **Resumo**.
 Esta tela apresenta uma visão consolidada de todas as informações definidas nas etapas anteriores do cadastro de campanha.
 O objetivo é permitir que o usuário valide as informações inseridas antes de finalizar e criar a campanha.
 
-<img src="imported/shared/4d3fdf037a46a0c3.png" alt="image-20251030-181013.png"/>
+<img src="../../images/imported/shared/4d3fdf037a46a0c3.png" alt="image-20251030-181013.png"/>
 
 #### **1. Bloco de Informações Gerais**
 

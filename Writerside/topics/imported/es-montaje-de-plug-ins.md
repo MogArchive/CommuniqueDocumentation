@@ -29,7 +29,7 @@ El montaje de los *players* debe tener en cuenta si el contenido se mostrará en
 
 A continuación, se muestra una ilustración:
 
-<img src="imported/shared/8cdedb1790ef9e33.png" alt="divisaosaidas.png"/>
+<img src="../../images/imported/shared/8cdedb1790ef9e33.png" alt="divisaosaidas.png"/>
 
 ---
 
@@ -37,7 +37,7 @@ A continuación, se muestra una ilustración:
 
 En la pantalla de montaje tenemos:
 
-<img src="imported/shared/f21cdb4725191019.png" alt="image-20250916-173602.png"/>
+<img src="../../images/imported/shared/f21cdb4725191019.png" alt="image-20250916-173602.png"/>
 
 1. **Nuevo layout:**Crea un nuevo layout para el player, que puede utilizarse como layout alternativo.
 2. **Menu Layouts:**Selección del layout que se configurará/mostrará.
@@ -74,7 +74,7 @@ Los *plug-ins* son:
 9. **Inactive**
 10. **Orderscreen** – no utilizado
 
-<img src="imported/shared/ce667e532a2577a8.png" alt="image-20250917-145540.png"/>
+<img src="../../images/imported/shared/ce667e532a2577a8.png" alt="image-20250917-145540.png"/>
 
 ---
 
@@ -84,7 +84,7 @@ Muestra el horario y el tipo de las funciones, y pueden ordenarse alfabéticamen
 
 También es posible filtrar para que se muestren solo las funciones **regulares** o **prime**.
 
-<img src="imported/shared/6bbe9242b3c4676e.png" alt="image-20250917-145630.png"/>
+<img src="../../images/imported/shared/6bbe9242b3c4676e.png" alt="image-20250917-145630.png"/>
 
 1. **Plug-in Screen:** Indica qué pantalla del *plug-in* debe mostrarse (varía entre 1 y 2 en *Showtimes 2.0*).
 2. **Videowall Screen:** Posición dentro del *videowall* (de 1 a 16).
@@ -101,14 +101,12 @@ También es posible filtrar para que se muestren solo las funciones **regulares*
 
 Ejemplo:
 
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
-
 Ejemplo
 
 El **Showtimes 2.0** cuenta con una pantalla auxiliar, pudiendo funcionar como **1x1** o **2x1**.
 Para mostrarla, la segunda pantalla del *plug-in* debe tener el número **2** en la configuración **Plugin Screen**
 
-<img src="imported/shared/e3afe0dbc1082553.png" alt="2.png"/>
+<img src="../../images/imported/shared/e3afe0dbc1082553.png" alt="2.png"/>
 
 ---
 
@@ -116,7 +114,7 @@ Para mostrarla, la segunda pantalla del *plug-in* debe tener el número **2** en
 
 Muestra los horarios de las funciones junto con el póster de la película.
 
-<img src="imported/shared/2a8398aa4130458b.png" alt="image-20260323-235524.png"/>
+<img src="../../images/imported/shared/2a8398aa4130458b.png" alt="image-20260323-235524.png"/>
 
 1. **Plug-in Screen:** Pantalla del *plug-in* (de 1 hasta el número total de pantallas utilizadas).
   Es necesario que cada pantalla tenga asignado su número correspondiente para evitar duplicidad o ausencia de contenido.
@@ -141,8 +139,6 @@ Muestra los horarios de las funciones junto con el póster de la película.
 
 **Ejemplo**
 
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
-
 Ejemplo
 
 El **BoxOffice** cuenta con pantallas que pueden mostrar **1, 3, 4 o 8 películas**.
@@ -150,11 +146,9 @@ El **BoxOffice** cuenta con pantallas que pueden mostrar **1, 3, 4 o 8 película
 La configuración de pantallas del *BoxOffice* debe tener en cuenta la cantidad de *plug-ins* que serán utilizados por el *player*.
 **Ejemplo:** En un *player* con **4 BoxOffice**, el **Plugin Screen** debe configurarse de **1 a 4**.
 
-<img src="imported/shared/84dca33473e1303c.png" alt="3.png"/>
+<img src="../../images/imported/shared/84dca33473e1303c.png" alt="3.png"/>
 
 **Ilustración de combinaciones**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Ilustración de combinaciones
 
@@ -162,19 +156,19 @@ Se permiten diferentes combinaciones de *layout* y, en caso de que se seleccione
 
 ##### BoxOffice 1 Película
 
-<img src="imported/shared/0c4e909bb41e685c.png" alt="5.png"/>
+<img src="../../images/imported/shared/0c4e909bb41e685c.png" alt="5.png"/>
 
 ##### BoxOffice 3 Películas
 
-<img src="imported/shared/c86c1fed979da94c.png" alt="6.png"/>
+<img src="../../images/imported/shared/c86c1fed979da94c.png" alt="6.png"/>
 
 ##### BoxOffice 4 Películas
 
-<img src="imported/shared/a3ccfb874733aa0c.png" alt="7.png"/>
+<img src="../../images/imported/shared/a3ccfb874733aa0c.png" alt="7.png"/>
 
 ##### BoxOffice 8 Películas
 
-<img src="imported/shared/a29382d24728db42.png" alt="8.png"/>
+<img src="../../images/imported/shared/a29382d24728db42.png" alt="8.png"/>
 
 ---
 
@@ -182,7 +176,7 @@ Se permiten diferentes combinaciones de *layout* y, en caso de que se seleccione
 
 Utilizado para la exhibición de videos o imágenes programados en una *playlist*.
 
-<img src="imported/shared/40841ea8f77db26b.png" alt="image-20250917-150150.png"/>
+<img src="../../images/imported/shared/40841ea8f77db26b.png" alt="image-20250917-150150.png"/>
 
 1. **Plug-in Screen:**Corresponde ao quadrante do vídeo exibido.
 2. **Position:**Posición en videowall.
@@ -205,15 +199,13 @@ Este complemento se puede configurar en formatos 1x1, 2x1, 3x1 y 4x1 y en 3 situ
 
 1. **Cuando se utiliza la misma salida de vídeo**
 
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
-
 Expandir
 
 **PLAYER 1X1**
 
 Los campos del plugin se rellenan con el número 1, excepto la pantalla del *Plugin Screen*, que siempre se rellenará con la posición de la pantalla en el videowall.
 
-<img src="imported/shared/bdb5da4c2d7f18fe.png" alt="9-10.png"/>
+<img src="../../images/imported/shared/bdb5da4c2d7f18fe.png" alt="9-10.png"/>
 
 **PLAYER 2X1**
 
@@ -221,7 +213,7 @@ La primera pantalla del plugin muestra los campos *Player Width* y *Player Heigh
 
 En la segunda pantalla del plugin, el campo se modifica *Plugin Screen* y *Screen Col* para indicar al reproductor que debe mostrar el segundo cuadrante del vídeo, es necesario activar el botón. *Hide on Player*.
 
-<img src="imported/shared/32b4b82159f0c37f.png" alt="11-12.png"/>
+<img src="../../images/imported/shared/32b4b82159f0c37f.png" alt="11-12.png"/>
 
 **PLAYER 3X1**
 
@@ -229,17 +221,15 @@ Los campos se rellenan como en el formato 2x1, sin embargo, la primera pantalla 
 
 La tercera pantalla, además de los campos de *Plugin Screen* y *Screen Col*, es necesario activar el botón *It's an extension* para indicar que esa pantalla es una extensión del monitor que se introducirá en el campo *Extended Monitors*.
 
-<img src="imported/shared/f6a3856ed6e3e071.png" alt="13-14.png"/>
+<img src="../../images/imported/shared/f6a3856ed6e3e071.png" alt="13-14.png"/>
 
 **PLAYER 4X1**
 
 Los campos *Player Width* e *Player Height* estos campos se rellenan para posicionar el vídeo como un 2x2; los demás plugins reciben la posición del vídeo y *Player Col* Según el cuadrante del vídeo, además de *Hide on player* activado.
 
-<img src="imported/shared/f5740c1167e6b364.png" alt="15-16.png"/>
+<img src="../../images/imported/shared/f5740c1167e6b364.png" alt="15-16.png"/>
 
 ##### **2. Cuando se encuentran en diferentes salidas de vídeo, pero están en la misma línea.**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -249,19 +239,17 @@ En los casos restantes, los campos *Plugin Screen* y *Player Col* se rellenan se
 
 **PLAYER 2X1**
 
-<img src="imported/shared/4245cc420a54b588.png" alt="17-18.png"/>
+<img src="../../images/imported/shared/4245cc420a54b588.png" alt="17-18.png"/>
 
 **PLAYER 3X1**
 
-<img src="imported/shared/e033fffe449e02be.png" alt="19-20.png"/>
+<img src="../../images/imported/shared/e033fffe449e02be.png" alt="19-20.png"/>
 
 **PLAYER 4X1**
 
-<img src="imported/shared/0f260f1daa9ec6c3.png" alt="21-22.png"/>
+<img src="../../images/imported/shared/0f260f1daa9ec6c3.png" alt="21-22.png"/>
 
 ##### **3. Al utilizar diferentes salidas de vídeo pero en líneas diferentes:**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -271,7 +259,7 @@ Los campos “*Screen Line*, *Screen Col*, *Player Width* e *Player Height”*, 
 
 En la segunda pantalla, el contenido se llena de la misma manera que los otros complementos 2x1, pero con “*It's an extension”* activo, y “*Extendeds Monitors”* recibe el número de monitor correspondiente a la primera pantalla del complemento.
 
-<img src="imported/shared/f5005585a3a8c575.png" alt="23-24.png"/>
+<img src="../../images/imported/shared/f5005585a3a8c575.png" alt="23-24.png"/>
 
 **PLAYER 3X1 - Ejemplo 1**
 
@@ -281,7 +269,7 @@ La segunda pantalla está llena de campos *Screen Line* y *Screen Col* indicando
 
 Finalmente, la tercera pantalla se llena con los campos *Screen Line* y *Screen Col* indicando que este será el tercer cuadrante del video, el campo *Extendeds Monitors* Recibe el número de monitor correspondiente a la primera pantalla del complemento y lo activa *It's an extension*.
 
-<img src="imported/shared/2532937dbdd83f29.png" alt="25-26.png"/>
+<img src="../../images/imported/shared/2532937dbdd83f29.png" alt="25-26.png"/>
 
 **PLAYER 3X1 - Ejemplo 2**
 
@@ -293,7 +281,7 @@ El campo Extendeds Monitors recibe el número del monitor correspondiente a la p
 
 Por último, la tercera pantalla se rellena con los campos Screen Line y Screen Col, indicando que será el tercer cuadrante del video, y con la opción Hide on player activada.
 
-<img src="imported/shared/98d35c9303c79e9a.png" alt="27-28.png"/>
+<img src="../../images/imported/shared/98d35c9303c79e9a.png" alt="27-28.png"/>
 
 **PLAYER 4X1**
 
@@ -307,7 +295,7 @@ El campo Extendeds Monitors recibe el número del monitor correspondiente a la p
 
 Por último, la cuarta pantalla se rellena con los campos Screen Line y Screen Col, indicando que será el tercer cuadrante del video, y con Hide on player activado.
 
-<img src="imported/shared/7b0488fe8070ae64.png" alt="29-30.png"/>
+<img src="../../images/imported/shared/7b0488fe8070ae64.png" alt="29-30.png"/>
 
 ---
 
@@ -317,7 +305,7 @@ Por último, la cuarta pantalla se rellena con los campos Screen Line y Screen C
 
 Se utiliza en las puertas de las salas de cine para mostrar el póster de la película que se está proyectando en esa sala.a.
 
-<img src="imported/shared/563e9f9a21eb6fd2.png" alt="image-20250917-150235.png"/>
+<img src="../../images/imported/shared/563e9f9a21eb6fd2.png" alt="image-20250917-150235.png"/>
 
 1. **Version:**1.0 y 2.0.
 2. **Room:**El número correspondiente a la sala de cine donde se encuentra el player.
@@ -332,7 +320,7 @@ Muestra tráileres, carteles y otra información sobre las películas.
 - *Presentando*, Muestra las películas que se están proyectando actualmente en el cine con sus horarios.
 - *Proximamente*, Muestra películas que aún no se han estrenado y no tiene un horario fijo.
 
-<img src="imported/shared/b250052b488aa29f.png" alt="image-20250917-150422.png"/>
+<img src="../../images/imported/shared/b250052b488aa29f.png" alt="image-20250917-150422.png"/>
 
 1. **Version:**1.0, 2.0 y 2.1.
 2. **Plug-in Screen:**Se utiliza para indicar qué pantalla de plug-in debe mostrarse.
@@ -346,17 +334,15 @@ Muestra tráileres, carteles y otra información sobre las películas.
 
 **Ejemplos - Postercase**
 
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
-
 Ejemplos - Postercase
 
 **Versión 1.0**
 
-<img src="imported/shared/c0883e30b9880026.png" alt="postercase1BR.png"/>
+<img src="../../images/imported/shared/c0883e30b9880026.png" alt="postercase1BR.png"/>
 
 **Versión 2.0**
 
-<img src="imported/shared/31718fcab2acec85.png" alt="postercase2BR.png"/>
+<img src="../../images/imported/shared/31718fcab2acec85.png" alt="postercase2BR.png"/>
 
 ---
 
@@ -368,7 +354,7 @@ Los campos iniciales se rellenan de forma estandarizada, independientemente de l
 
 El campo *Combos/XML* recibe la dirección de la API o el archivo JSON local.
 
-<img src="imported/shared/606a73c75bcb6008.png" alt="image-20260601-130621.png"/>
+<img src="../../images/imported/shared/606a73c75bcb6008.png" alt="image-20260601-130621.png"/>
 
 1. **Plug-in Screen:**Indica qué pantalla del plugin debe mostrarse..
   - Las dos versiones de plug-in tienen la opción 2x1.
@@ -403,15 +389,13 @@ Los cambios en la API solo se reflejarán en el complemento en una hora, indepen
 
 1. **REGULAR 1x1**
 
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
-
 Expandir
 
 Los campos iniciales se rellenan de forma estandarizada, independientemente de la versión de plugin.
 
 El campo Combos/XML recibe la dirección de la API o el archivo JSON local, como en el ejemplo siguiente.
 
-<img src="imported/shared/27a5084cd9349f5d.png" alt="31-32.png"/>
+<img src="../../images/imported/shared/27a5084cd9349f5d.png" alt="31-32.png"/>
 
 ##### Versión 2.1
 
@@ -421,11 +405,9 @@ Este valor diferenciado proviene directamente de la API y se muestra con el logo
 
 Actualmente, Cineplus se utiliza en cines de Centroamérica, y Gold y Pro en Colombia.
 
-<img src="imported/shared/69e590267b689088.png" alt="combos21.png"/>
+<img src="../../images/imported/shared/69e590267b689088.png" alt="combos21.png"/>
 
 1. **REGULAR 2x1**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -441,7 +423,7 @@ Para la versión 2.0, el campo width seguirá recibiendo el valor 1, pero el bot
 
 El campo Plugin Screen recibe los números 1 y 2, respectivamente.
 
-<img src="imported/shared/dfb32456413f73d6.png" alt="33-34.png"/>
+<img src="../../images/imported/shared/dfb32456413f73d6.png" alt="33-34.png"/>
 
 ---
 
@@ -451,7 +433,7 @@ Muestra los artículos restantes en el mostrador de dulces (palomitas, bebidas, 
 
 Los campos iniciales se rellenan de forma estandarizada, independientemente de la versión.
 
-<img src="imported/shared/844eaa6c3c6bed21.png" alt="1.png"/>
+<img src="../../images/imported/shared/844eaa6c3c6bed21.png" alt="1.png"/>
 
 1. **Plug-in Screen:** Indica qué pantalla del plug-in debe mostrarse.
 2. **Videowall Screen:** Posición en el videowall.
@@ -461,7 +443,7 @@ Los campos iniciales se rellenan de forma estandarizada, independientemente de l
 
 #### 2.6.1 Areas config
 
-<img src="imported/shared/54b43ddc861d5e55.png" alt="image-20250917-153124.png"/>
+<img src="../../images/imported/shared/54b43ddc861d5e55.png" alt="image-20250917-153124.png"/>
 
 1. **Box Layout:**Campo completado con el tipo de layout utilizado por el plug-in..
 2. **Code:**Define la categoría principal del producto, siempre representada por una sola letra.
@@ -487,23 +469,19 @@ El campo *box layout* puedes seleccionar entre:
 
 1. **REGULAR**
 
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
-
 Expandir
 
-<img src="imported/shared/8f69e8a1c33a2e65.png" alt="configmenuRegular.png"/>
+<img src="../../images/imported/shared/8f69e8a1c33a2e65.png" alt="configmenuRegular.png"/>
 
 ***Show video*****activado**
 
-<img src="imported/shared/d78a2784e7e119e5.png" alt="menuRegular2-video.png"/>
+<img src="../../images/imported/shared/d78a2784e7e119e5.png" alt="menuRegular2-video.png"/>
 
 ***Show video*****desactivado**
 
-<img src="imported/shared/cbc7f56e2b5dc602.png" alt="menuRegular2-svideo.png"/>
+<img src="../../images/imported/shared/cbc7f56e2b5dc602.png" alt="menuRegular2-svideo.png"/>
 
 1. **REGULAR-BISTRO**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -511,13 +489,11 @@ Utiliza las mismas configuraciones del Menu Regular, modificando solo los layout
 
 Este plug-in tiene un layout diferente y es utilizado por cines Bistro
 
-<img src="imported/shared/a042b558ad611c30.png" alt="configmenuRegBistro.png"/>
+<img src="../../images/imported/shared/a042b558ad611c30.png" alt="configmenuRegBistro.png"/>
 
-<img src="imported/shared/7162e11b4cd2dbe2.png" alt="menuRegular-Bistro.png"/>
+<img src="../../images/imported/shared/7162e11b4cd2dbe2.png" alt="menuRegular-Bistro.png"/>
 
 1. **REGULAR-PREMIERMIX**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -525,13 +501,11 @@ Utiliza las mismas configuraciones del **menu Regular**, modificando solo los la
 
 Este plug-in tiene un layout diferente y es utilizado por cines PremierMix que desean mostrar videos en el pie de página del plug-in.
 
-<img src="imported/shared/1cc2ef4c62b9349c.png" alt="configmenuRegPremier.png"/>
+<img src="../../images/imported/shared/1cc2ef4c62b9349c.png" alt="configmenuRegPremier.png"/>
 
-<img src="imported/shared/a04a7e75451ffeb5.png" alt="menuRegular-PremierMix.png"/>
+<img src="../../images/imported/shared/a04a7e75451ffeb5.png" alt="menuRegular-PremierMix.png"/>
 
 1. **BISTRO**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -539,13 +513,11 @@ Este plug-in no tiene productos específicos para las categorías (Palomitas A, 
 
 Tampoco tiene un video en el pie de página, pero es necesario agregar los nombres de los videos que se mostrarán en la pantalla utilizando el campo *Bistro Videos*. Si hay más de un video, los nombres deben estar separados por comas, sin espacio, según la imagen de abajo.
 
-<img src="imported/shared/29ff50d7da7f8c37.png" alt="configmenuBistro.png"/>
+<img src="../../images/imported/shared/29ff50d7da7f8c37.png" alt="configmenuBistro.png"/>
 
-<img src="imported/shared/58df00b6eb2c8025.png" alt="menuBistro.png"/>
+<img src="../../images/imported/shared/58df00b6eb2c8025.png" alt="menuBistro.png"/>
 
 1. **PREMIERMIX**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -553,13 +525,11 @@ Utiliza las mismas configuraciones del Menu Regular, modificando solo los layout
 
 Este plug-in tiene un layout diferente y es utilizado por cines PremierMix sin video en el pie de página.
 
-<img src="imported/shared/104997538d99d953.png" alt="configmenuPremiermix.png"/>
+<img src="../../images/imported/shared/104997538d99d953.png" alt="configmenuPremiermix.png"/>
 
-<img src="imported/shared/b5b3580b946a1c09.png" alt="menuPremier-Mix.png"/>
+<img src="../../images/imported/shared/b5b3580b946a1c09.png" alt="menuPremier-Mix.png"/>
 
 1. **SELFSERVICE**
-
-> Imagem não encontrada no ZIP: `wiki/images/icons/grey_arrow_down.png`
 
 Expandir
 
@@ -567,15 +537,15 @@ Posee solo un campo obligatorio de categoría, que es el de Palomitas. Los demá
 
 Tampoco tiene un video en el pie de página, pero cuenta con un video predeterminado que se muestra automáticamente en el pie del plug-in.
 
-<img src="imported/shared/557cf2db6b73f488.png" alt="configmenuSelfService.png"/>
+<img src="../../images/imported/shared/557cf2db6b73f488.png" alt="configmenuSelfService.png"/>
 
-<img src="imported/shared/ecdd34d5c1f23206.png" alt="menuSelf-Service.png"/>
+<img src="../../images/imported/shared/ecdd34d5c1f23206.png" alt="menuSelf-Service.png"/>
 
 #### 2.6.2 Font Size
 
 Permite al usuario seleccionar el tamaño de fuente que se mostrará, con tres opciones disponibles. Además, incluye una función de vista previa que permite ver cómo se verá la pantalla con el tamaño de fuente elegido.
 
-<img src="imported/shared/e0db605f4a8beb97.png" alt="menusize4.png"/>
+<img src="../../images/imported/shared/e0db605f4a8beb97.png" alt="menusize4.png"/>
 
 ---
 
@@ -583,7 +553,7 @@ Permite al usuario seleccionar el tamaño de fuente que se mostrará, con tres o
 
 Muestra los precios de las entradas de cine, separados por tipo de sesión y sala.
 
-<img src="imported/shared/ec99c7dd7ff74ead.jpg" alt="Prices.jpg"/>
+<img src="../../images/imported/shared/ec99c7dd7ff74ead.jpg" alt="Prices.jpg"/>
 
 1. **Plug-in Screen:**Indica qué pantalla del **plug-in** debe mostrarse.
   - Este **plug-in** posee solo pantallas **1x1**.

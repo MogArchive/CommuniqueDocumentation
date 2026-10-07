@@ -10,7 +10,7 @@
 
 A seção de **Monitoramento** é responsável pelo acompanhamento em tempo real do funcionamento e da conectividade dos componentes do sistema. Por meio dela, é possível monitorar o status das **APIs**, a atividade dos **players**, os períodos **offline** e a **saúde geral do sistema**. Essa sessão fornece uma visão centralizada do desempenho operacional, permitindo a identificação rápida de falhas e a adoção de ações corretivas para garantir a estabilidade e a continuidade dos serviços.
 
-<img src="imported/shared/a8fe0d48a6857868.png" alt="image-20251031-192829.png"/>
+<img src="../../images/imported/shared/a8fe0d48a6857868.png" alt="image-20251031-192829.png"/>
 
 Dividida em:
 
@@ -71,7 +71,7 @@ Essa visualização fornece um diagnóstico completo do estado operacional de ca
 
 ## 3. Offline
 
-<img src="imported/shared/c5ea4b5734c11004.png" alt="image-20251103-144741.png"/>
+<img src="../../images/imported/shared/c5ea4b5734c11004.png" alt="image-20251103-144741.png"/>
 
 A tela de **Monitoramento – Offline** exibe um relatório detalhado gerado a partir do cinema selecionado e dos players associados a ele. O relatório apresenta informações sobre o status de **sincronização (Sync)**, **downloads** e **conexões de API**, permitindo acompanhar o funcionamento e a disponibilidade de cada player.
 

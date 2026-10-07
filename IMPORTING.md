@@ -25,6 +25,8 @@ O comando recria somente estas pastas geradas:
 
 As imagens recebem nomes baseados no conteúdo. Se BR e ES utilizarem a mesma imagem, somente uma cópia será armazenada.
 
+Os tópicos usam caminhos relativos explícitos para as imagens em `../../images/imported/shared/`, compatíveis com o Preview e o builder do Writerside. A seta decorativa de expansão do Confluence (`grey_arrow_down.png`, com a classe `expand-control-image`) é omitida; outras imagens ausentes continuam gerando um aviso no tópico.
+
 Arquivos manuais em `Writerside/topics` e `Writerside/images` não são removidos nem sobrescritos. O resumo da importação fica em `Writerside/topics/imported/import-report.json`.
 
 O importador também gera automaticamente duas instâncias completas: `Writerside/br.tree` e `Writerside/es.tree`. Isso permite validar os links separadamente e publicar cada idioma em sua própria URL. A instância manual legada `hi` é preservada.
@@ -35,11 +37,11 @@ Para atualizar apenas um idioma, use `--language br` ou `--language es`. Também
 
 O projeto atual publica as instâncias `Writerside/br` e `Writerside/es`, cujas navegações estão em `Writerside/br.tree` e `Writerside/es.tree`. A instância manual legada `Writerside/hi` é preservada no projeto, mas não faz parte dessa publicação.
 
-Depois de importar, revise o relatório e as páginas geradas. Os índices e seus tópicos serão incluídos automaticamente na navegação de cada idioma.
+Depois de importar, revise o relatório e as páginas geradas. O Glossário é a página inicial de cada idioma e o primeiro item do menu. Os demais tópicos ficam diretamente na navegação, sem uma pasta expansível. O índice importado permanece disponível como último item.
 
 O site publicado usa a versão 5.3 e disponibiliza um seletor BR/ES no cabeçalho. O português é publicado na raiz, preservando `/communique5.html`, enquanto o espanhol fica em `/es/`. O workflow também publica `versions.json` na raiz.
 
-O endereço em português continua sendo https://mogarchive.github.io/CommuniqueDocumentation/communique5.html. O workflow copia o índice BR para esse caminho a cada publicação.
+O endereço em português continua sendo https://mogarchive.github.io/CommuniqueDocumentation/communique5.html. O workflow copia o Glossário BR para esse caminho a cada publicação. A raiz `/es/` e o seletor ES abrem o Glosario espanhol. Links diretos para outras páginas continuam abrindo a página solicitada.
 
 Com o builder `241.18775`, os arquivos gerados são `webHelpBR2-all.zip` e `webHelpES2-all.zip`. O build, o upload e a montagem do site devem usar esses mesmos nomes. Se um ZIP não for encontrado, o upload falha explicitamente em vez de continuar sem artefatos.
 

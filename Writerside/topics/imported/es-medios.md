@@ -10,7 +10,7 @@
 
 Sección destinada a la carga (upload) y gestión de medios en Communique.
 
-<img src="imported/shared/ee1997412c92ca7e.png" alt="image-20251030-112147.png"/>
+<img src="../../images/imported/shared/ee1997412c92ca7e.png" alt="image-20251030-112147.png"/>
 
 Dividida en:
 
@@ -23,7 +23,7 @@ Dividida en:
 
 ## 1. Medios
 
-<img src="imported/shared/05ea91ccc4505a02.png" alt="image-20251030-112351.png"/>
+<img src="../../images/imported/shared/05ea91ccc4505a02.png" alt="image-20251030-112351.png"/>
 
 1. **Formato (icono MP4, JPG, WEBM):** Indica el tipo de archivo del medio. El formato se muestra como un pequeño botón (por ejemplo, MP4) donde, al hacer clic, es posible visualizar el medio.
 2. **Nombre:** Muestra el nombre del archivo de medio registrado en el sistema. Al lado del nombre, un ícono triangular con un signo de exclamación indica que hay una alerta, observación o pendiente asociada al ítem.
@@ -34,7 +34,7 @@ Dividida en:
 7. **Tipo:** Indica el tipo de medio.
    Ejemplo: *Lobby Domination, Pôster, Evento*.
 8. **Validación:** Muestra el estado actual de validación del medio en el sistema.
-9. <img src="imported/shared/25b5514eb56c9499.png" alt="image-20251029-165548.png"/>
+9. <img src="../../images/imported/shared/25b5514eb56c9499.png" alt="image-20251029-165548.png"/>
   : Iconos de aprobación del medio en el sistema.
 
 ---
@@ -43,12 +43,12 @@ Dividida en:
 
 Sección que mostrará todos los medios pendientes de aprobación.
 
-<img src="imported/shared/8993b2a12ade32fe.png" alt="image-20251030-112758.png"/>
+<img src="../../images/imported/shared/8993b2a12ade32fe.png" alt="image-20251030-112758.png"/>
 
 1. **Nombre:** Muestra el nombre del archivo de medio registrado en el sistema.
 2. **Formato:** Representa el formato del medio.
 3. **Tipo:** Indica el tipo de medio.
-4. <img src="imported/shared/d1b487efa4177483.png" alt="image-20251029-170106.png"/>
+4. <img src="../../images/imported/shared/d1b487efa4177483.png" alt="image-20251029-170106.png"/>
    : Eliminar el medio pendiente de aprobación.
 
 ---
@@ -57,11 +57,11 @@ Sección que mostrará todos los medios pendientes de aprobación.
 
 Sección destinada a la carga de archivos de medios en el sistema.
 
-<img src="imported/shared/df79ac43ceb875a3.png" alt="image-20251029-170158.png"/>
+<img src="../../images/imported/shared/df79ac43ceb875a3.png" alt="image-20251029-170158.png"/>
 
 ### **3.1 Upload**
 
-<img src="imported/shared/6b4356e988ef12cb.png" alt="image-20251029-170932.png"/>
+<img src="../../images/imported/shared/6b4356e988ef12cb.png" alt="image-20251029-170932.png"/>
 
 1. **Poster:**Deben subirse verticalmente y son archivos de medios de imagen (JPG).
 2. **Trailer:**Archivos multimedia de tipo vídeo (MP4).
@@ -75,7 +75,7 @@ Sección destinada a la carga de archivos de medios en el sistema.
 
 ### 3.2 Limitadores
 
-<img src="imported/shared/87e188728bf6abbf.png" alt="image-20251030-202752.png"/>
+<img src="../../images/imported/shared/87e188728bf6abbf.png" alt="image-20251030-202752.png"/>
 
 Se utilizan para evitar la carga de archivos demasiado grandes o que no cumplen los requisitos del sistema
 
@@ -83,12 +83,12 @@ Se utilizan para evitar la carga de archivos demasiado grandes o que no cumplen 
 
 ## 4. Limbo
 
-<img src="imported/shared/9241df862f7592d4.png" alt="image-20251030-113415.png"/>
+<img src="../../images/imported/shared/9241df862f7592d4.png" alt="image-20251030-113415.png"/>
 
 Sección destinada a la gestión de los archivos de medios eliminados.
 
 Después de la eliminación, el archivo se mueve al Limbo, donde permanece durante un período de hasta 30 días. Durante este tiempo, es posible restaurar el archivo utilizando el icono
 
-<img src="imported/shared/8adb96eb41cadea1.png" alt="image-20251029-171410.png"/>
+<img src="../../images/imported/shared/8adb96eb41cadea1.png" alt="image-20251029-171410.png"/>
 
 , en caso de que sea necesaria su recuperación.

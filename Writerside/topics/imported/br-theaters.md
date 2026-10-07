@@ -10,13 +10,13 @@
 
 Seção destinada ao gerenciamento dos cinemas que utilizam o Player MOG.
 
-<img src="imported/shared/009fbecc886cb4cb.png" alt="image-20250912-201812.png"/>
+<img src="../../images/imported/shared/009fbecc886cb4cb.png" alt="image-20250912-201812.png"/>
 
 ---
 
 ## 1. Theaters
 
-<img src="imported/shared/2fea57f9fd8e3c34.png" alt="image-20250912-192713.png"/>
+<img src="../../images/imported/shared/2fea57f9fd8e3c34.png" alt="image-20250912-192713.png"/>
 
 1. **Code:** Código de identificação único do cinema. Este código é fornecido pelo cliente.
 2. **Name:** Nome do cinema.
@@ -25,10 +25,10 @@ Seção destinada ao gerenciamento dos cinemas que utilizam o Player MOG.
 5. **Players:** Quantidade de players configurados no cinema.
 6. **ConfigPlaylist:** Indica se o cinema já possui playlist configurada.
 
-<img src="imported/shared/ff56cd45d6265d06.png" alt="image-20250912-194328.png"/>
+<img src="../../images/imported/shared/ff56cd45d6265d06.png" alt="image-20250912-194328.png"/>
 
 1. **Ícone “**
-  <img src="imported/shared/170b67e49cf4630d.png" alt="image-20250911-183944.png"/>
+  <img src="../../images/imported/shared/170b67e49cf4630d.png" alt="image-20250911-183944.png"/>
   **”:**Ao clicar, será exibida a tela de cadastro acima, contendo os campos:
   1. **Name:**Nome do cinema.
   2. **Code:**Código do cinema. Esse código é fornecido pelo cliente.
@@ -42,10 +42,10 @@ Seção destinada ao gerenciamento dos cinemas que utilizam o Player MOG.
     3. **Playlist Sync:** Bloqueio de sincronização de playlists.
   8. **Legal Description:**Campo destinado à descrição legal sobre meia-entrada e outras informações relevantes, exibidas no rodapé do plug-in *Prices*.
 2. **Ícone “**
-  <img src="imported/shared/f211125d4d9092d4.png" alt="image-20250912-195113.png"/>
+  <img src="../../images/imported/shared/f211125d4d9092d4.png" alt="image-20250912-195113.png"/>
   ”: Atualiza a página.
 3. **Ícone** “
-  <img src="imported/shared/f2d71a01e7661019.png" alt="image-20250911-193643.png"/>
+  <img src="../../images/imported/shared/f2d71a01e7661019.png" alt="image-20250911-193643.png"/>
    ”: Ao clicar, será exibida uma tela de confirmação para exclusão do item selecionado.
 
 ---

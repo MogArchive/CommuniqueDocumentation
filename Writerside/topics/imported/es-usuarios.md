@@ -12,7 +12,7 @@ Sección destinada a la gestión de los usuarios del sistema
 
 Dividida en **“Todos Usuarios”** y **“Permisos”**.
 
-<img src="imported/shared/12f3a9eab2ee38a1.png" alt="image-20251029-233828.png"/>
+<img src="../../images/imported/shared/12f3a9eab2ee38a1.png" alt="image-20251029-233828.png"/>
 
 ---
 
@@ -20,14 +20,14 @@ Dividida en **“Todos Usuarios”** y **“Permisos”**.
 
 Pantalla referente a la gestión de los usuarios registrados.
 
-<img src="imported/shared/75c1c080f5364618.png" alt="image-20251029-233921.png"/>
+<img src="../../images/imported/shared/75c1c080f5364618.png" alt="image-20251029-233921.png"/>
 
 1. **Nombre:** Nombre del usuario.
 2. **email:** Correo electrónico de contacto profesional.
 3. **User name:** Nombre de usuario (inicio de sesión) en el sistema.
 4. **CreatedAt:** Fecha de creación del usuario en el sistema.
 5. **Ícone “**
-  <img src="imported/shared/f5110603dc5e9077.png" alt="image-20250911-183944.png"/>
+  <img src="../../images/imported/shared/f5110603dc5e9077.png" alt="image-20250911-183944.png"/>
   **”:**Al hacer clic, se mostrará la pantalla de registro que se detalla a continuación, con los siguientes campos:
   1. **Nombre:** Nombre del usuario.
   2. **Nombre de Usuario:** Log-in (inicio de sesión) en el sistema.
@@ -41,7 +41,7 @@ Pantalla referente a la gestión de los usuarios registrados.
   10. **Support Leader:**Determina si el usuario es el Líder de Soporte, habilitando la función de envío de correos electrónicos en la pantalla inicial del *dashboard* (parte superior).
 6. **Icone “Guardar”:**Guarda la información y crea un nuevo usuario.
 
-<img src="imported/shared/e74e72332fbe549e.png" alt="image-20251029-234258.png"/>
+<img src="../../images/imported/shared/e74e72332fbe549e.png" alt="image-20251029-234258.png"/>
 
 ---
 
@@ -49,4 +49,4 @@ Pantalla referente a la gestión de los usuarios registrados.
 
 Lista de *Funciones* disponibles en el sistema. Los permisos se gestionan directamente en la base de datos y definen los niveles de acceso de los usuarios.
 
-<img src="imported/shared/2ec12520529292db.png" alt="image-20251029-235353.png"/>
+<img src="../../images/imported/shared/2ec12520529292db.png" alt="image-20251029-235353.png"/>

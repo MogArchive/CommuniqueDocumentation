@@ -18,7 +18,7 @@ En esta pantalla, el usuario puede visualizar todas las campañas registradas, s
 
 ## 1. Campaña - Pantalla inicial
 
-<img src="imported/shared/90b0f08c00b630ea.png" alt="image-20251031-225359.png"/>
+<img src="../../images/imported/shared/90b0f08c00b630ea.png" alt="image-20251031-225359.png"/>
 
 #### **1. Menú de Navegación**
 
@@ -26,7 +26,7 @@ En esta pantalla, el usuario puede visualizar todas las campañas registradas, s
 - **Lista:**muestra detallada de todas las campañas registradas.
 - **Calendario:**visualización de las campañas en formato de agenda o período
 
-#### **2. Botón** <img src="imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/> **(Crear Campaña)**
+#### **2. Botón** <img src="../../images/imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/> **(Crear Campaña)**
 
 Permite iniciar el registro de una nueva campaña publicitaria.
 
@@ -72,7 +72,7 @@ En esta etapa se realiza el registro inicial de la campaña, definiendo informac
 
 Una vez completados los datos, el usuario puede continuar con las siguientes etapas de configuración.
 
-<img src="imported/shared/d13d26d0c90fd7a6.png" alt="image-20251101-185841.png"/>
+<img src="../../images/imported/shared/d13d26d0c90fd7a6.png" alt="image-20251101-185841.png"/>
 
 1. **Nombre**
 
@@ -125,7 +125,7 @@ Los medios corresponden a los archivos previamente registrados en el sistema.
 
 El objetivo de esta pantalla es definir qué contenido será reproducido durante la ejecución de la campaña.
 
-<img src="imported/shared/2eb017d54d481b08.png" alt="image-20251101-190009.png"/>
+<img src="../../images/imported/shared/2eb017d54d481b08.png" alt="image-20251101-190009.png"/>
 
 1. **Búsqueda**
 
@@ -176,7 +176,7 @@ En esta etapa, el usuario selecciona los *players* donde se mostrará la campañ
 
 La correcta selección del *player* garantiza que el medio elegido se reproduzca en el lugar deseado.
 
-<img src="imported/shared/1940ba352b477191.png" alt="image-20251101-190107.png"/>
+<img src="../../images/imported/shared/1940ba352b477191.png" alt="image-20251101-190107.png"/>
 
 1. **Campo “Búsqueda”**
 
@@ -239,7 +239,7 @@ Además, se presentan íconos que indican capacidades especiales (*MixTemplate*,
 Esta pantalla presenta una vista consolidada de toda la información definida en las etapas anteriores del registro de la campaña.
 El objetivo es permitir que el usuario valide los datos ingresados antes de finalizar y crear la campaña.
 
-<img src="imported/shared/03b7a1a6aa87ea69.png" alt="image-20251101-190501.png"/>
+<img src="../../images/imported/shared/03b7a1a6aa87ea69.png" alt="image-20251101-190501.png"/>
 
 #### **1. Bloque de Información General**
 

@@ -14,7 +14,7 @@ La pantalla de ***Logs*******presenta el registro detallado de eventos, alertas 
 
 ## 1. Logs - Pantalla de inicio
 
-<img src="imported/shared/d4ee762e3f050e6e.png" alt="image-20251103-234118.png"/>
+<img src="../../images/imported/shared/d4ee762e3f050e6e.png" alt="image-20251103-234118.png"/>
 
 En la parte superior, hay un campo de **búsqueda (*****“Search for”*****)**, que permite filtrar registros específicos por palabra clave, facilitando la identificación de ocurrencias relacionadas con un *player*, servicio o evento determinado.
 

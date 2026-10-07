@@ -10,17 +10,17 @@
 
 Na tela inicial de “All Players” clique no ícone destacado da imagem abaixo para acessar a **edição de players**.
 
-<img src="imported/shared/c8b9a6b01eb6ef06.png" alt="Captura de tela 2025-09-15 093818.png"/>
+<img src="../../images/imported/shared/c8b9a6b01eb6ef06.png" alt="Captura de tela 2025-09-15 093818.png"/>
 
 1. Ao clicar no ícone “
-  <img src="imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
+  <img src="../../images/imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
   ” a tela abaixo é aberta.
 
-<img src="imported/shared/3ffec509d6b44068.png" alt="image-20250915-124304.png"/>
+<img src="../../images/imported/shared/3ffec509d6b44068.png" alt="image-20250915-124304.png"/>
 
 1. Na parte superior está a informação do player acessado:
 
-<img src="imported/shared/a560cd3128a3ddf9.png" alt="image-20250915-124421.png"/>
+<img src="../../images/imported/shared/a560cd3128a3ddf9.png" alt="image-20250915-124421.png"/>
 
 1. No exemplo temos:
 
@@ -34,13 +34,13 @@ Onde:
 
 1. No canto superior direito está a opção “**SAVE**”, clique sempre que fizer alterações.
 
-<img src="imported/shared/65d0cd4f95b0ca4b.png" alt="image-20250915-125742.png"/>
+<img src="../../images/imported/shared/65d0cd4f95b0ca4b.png" alt="image-20250915-125742.png"/>
 
 ---
 
 ### 1.1 Configuração de Playlist
 
-<img src="imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
+<img src="../../images/imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
 
 Os menus disponíveis na tela de playlist são:
 
@@ -53,28 +53,28 @@ Os menus disponíveis na tela de playlist são:
 
 #### 1.1.1 Playlist
 
-<img src="imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
+<img src="../../images/imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
 
 1. **Name:** Nome da playlist
 2. **Description:**Breve descrição da playlist
 3. **Format:**O formato das mídias que compõem a playlist (Ex.: 1x1, 2x1, 4x2, etc.)
 4. **Ícone “**
-  <img src="imported/shared/170b67e49cf4630d.png" alt="image-20250911-183944.png"/>
+  <img src="../../images/imported/shared/170b67e49cf4630d.png" alt="image-20250911-183944.png"/>
    **”:**Ao clicar, será exibida a tela de cadastro abaixo, contendo os campos descritos acima e também o campo “**Media Types**” para selecionar os tipos de mídia que farão parte da playlist. *SAVE* para criar a nova playlist.
 
-<img src="imported/shared/d9a1d9984c67bc71.png" alt="image-20250915-145716.png"/>
+<img src="../../images/imported/shared/d9a1d9984c67bc71.png" alt="image-20250915-145716.png"/>
 
 ##### **Edição de playlist**
 
 Após a criação clique no ícone “
 
-<img src="imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
+<img src="../../images/imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
 
 ” para editar.
 
 A tela abaixo será exibida.
 
-<img src="imported/shared/9a2bae7310c0e61c.png" alt="image-20250916-130102.png"/>
+<img src="../../images/imported/shared/9a2bae7310c0e61c.png" alt="image-20250916-130102.png"/>
 
 1. Na parte superior da tela aparece o identificador do player/playlist no seguinte formato:
 
@@ -91,7 +91,7 @@ Onde:
   - **V**para vertical.
 
 1. **Ícone “**
-  <img src="imported/shared/1bd793434ffe58ad.png" alt="image-20250915-181604.png"/>
+  <img src="../../images/imported/shared/1bd793434ffe58ad.png" alt="image-20250915-181604.png"/>
   ” **de expansão:**Ao clicar, são exibidas todas as mídias que atendem aos critérios definidos na criação do player/playlist. Os critérios são:
   1. **Orientação:**a orientação do **player** (**H**orizontal ou **V**ertical).
   2. **Formato:** Definido na criação da **playlist**.
@@ -103,38 +103,38 @@ Duplo clique para inserir as mídias na playlist.
 2. Ao lado direito do campo de busca estão os *Media Types*selecionados para essa mídia. Selecione um ou mais para alternar a exibição entre as mídias.
 3. “**ORDER BY**”: Clique para selecionar a ordem de exibição entre **alfabética**e por **data de upload**.
 
-<img src="imported/shared/1e81818a8b1edc40.png" alt="image-20250916-130338.png"/>
+<img src="../../images/imported/shared/1e81818a8b1edc40.png" alt="image-20250916-130338.png"/>
 
-1. <img src="imported/shared/a3c110b5f90b0391.png" alt="image-20250916-124316.png"/>
+1. <img src="../../images/imported/shared/a3c110b5f90b0391.png" alt="image-20250916-124316.png"/>
   : Utilize para salvar as alterações.
-2. <img src="imported/shared/a617071bca61b6fc.png" alt="image-20250916-124359.png"/>
+2. <img src="../../images/imported/shared/a617071bca61b6fc.png" alt="image-20250916-124359.png"/>
   : Clique para limpar as mídias selecionadas.
-3. <img src="imported/shared/47463e8be11cffb9.png" alt="image-20250916-124512.png"/>
+3. <img src="../../images/imported/shared/47463e8be11cffb9.png" alt="image-20250916-124512.png"/>
   : Após a seleção das mídias e o salvamento das alterações, clique para exibição das mídias conforme elas aparecerão no player.
-4. <img src="imported/shared/7c16e7cabd4fda26.png" alt="image-20250916-124636.png"/>
+4. <img src="../../images/imported/shared/7c16e7cabd4fda26.png" alt="image-20250916-124636.png"/>
   : Clique para alternar a visualização entre segundos e minutos.
-5. <img src="imported/shared/ba557ae13acf231f.png" alt="image-20250916-124726.png"/>
+5. <img src="../../images/imported/shared/ba557ae13acf231f.png" alt="image-20250916-124726.png"/>
   : Navegue entre os dias para visualizar como a playlist está programada.
 
 Após a seleção das mídias, a exibição ficará assim:
 
-<img src="imported/shared/f40067be91c340b9.png" alt="image-20250916-141841.png"/>
+<img src="../../images/imported/shared/f40067be91c340b9.png" alt="image-20250916-141841.png"/>
 
 Note que o botão SAVE está com a borda amarela, informando que há alterações não salvas.
 
 ##### **Opções de reprodução da mídia**
 
-<img src="imported/shared/6272dc7a96ac4d3c.png" alt="image-20250916-142858.png"/>
+<img src="../../images/imported/shared/6272dc7a96ac4d3c.png" alt="image-20250916-142858.png"/>
 
 O ícone
 
-<img src="imported/shared/d027484f02d2e1da.png" alt="image-20250916-150200.png"/>
+<img src="../../images/imported/shared/d027484f02d2e1da.png" alt="image-20250916-150200.png"/>
 
  permite uma seleção personalizada do período de dias da exibição da mídia.
 
 Ao passar o mouse sobre o ícone
 
-<img src="imported/shared/a92adae2ec38e100.png" alt="image-20250916-142600.png"/>
+<img src="../../images/imported/shared/a92adae2ec38e100.png" alt="image-20250916-142600.png"/>
 
  um menu é aberto:
 
@@ -148,7 +148,7 @@ Ao passar o mouse sobre o ícone
 
 5
 
-<img src="imported/shared/76c14f6f556daf86.png" alt="image-20250916-142938.png"/>
+<img src="../../images/imported/shared/76c14f6f556daf86.png" alt="image-20250916-142938.png"/>
 
 ###### Imagem 12 - Menu de edição.
 
@@ -161,7 +161,7 @@ Ao passar o mouse sobre o ícone
 4. Seleção personalizada de exibição (dias da semana, período do dia e tempo de exibição).
 5. Excluir mídia da playlist.
 
-<img src="imported/shared/f5cf3e9d231ef34a.png" alt="image-20250916-150332.png"/>
+<img src="../../images/imported/shared/f5cf3e9d231ef34a.png" alt="image-20250916-150332.png"/>
 
 Este campo apresenta o *preview* da mídia selecionada. Interaja com os ícones para **pause/play** e **expansão em tela cheia**.
 
@@ -171,7 +171,7 @@ Este campo apresenta o *preview* da mídia selecionada. Interaja com os ícones 
 
 Configuração de cartelera/grade do player. Afeta os plugins *Showtimes, Boxoffice* e *Postercase*.
 
-<img src="imported/shared/bb4901e4f9973a2a.png" alt="image-20250916-154145.png"/>
+<img src="../../images/imported/shared/bb4901e4f9973a2a.png" alt="image-20250916-154145.png"/>
 
 1. **Grid Path**: Endereço da API de cartelera/grade.
 2. **Order**: Ordem de importância das sessões.
@@ -184,7 +184,7 @@ Configuração de cartelera/grade do player. Afeta os plugins *Showtimes, Boxoff
 
 Tempo em minutos estabelecido para que o player faça cada tipo de sincronização.
 
-<img src="imported/shared/e83f2e35dab039ad.jpg" alt="Sync.jpg"/>
+<img src="../../images/imported/shared/e83f2e35dab039ad.jpg" alt="Sync.jpg"/>
 
 ---
 
@@ -195,7 +195,7 @@ Vídeo exibido sobreposto ao conteúdo principal do player.
 - O formato do *layer* segue a mesma configuração da playlist e da montagem do player.
 - Esse recurso é utilizado, em geral, nas bilheterias dos cinemas.
 
-<img src="imported/shared/fc4789bca8205fdc.jpg" alt="Layer.jpg"/>
+<img src="../../images/imported/shared/fc4789bca8205fdc.jpg" alt="Layer.jpg"/>
 
 ---
 
@@ -206,7 +206,7 @@ Mídia programada em uma playlist específica de evento.
 - Quando ativa, sobrepõe todo o conteúdo do player.
 - Permite definir um período de exibição (horas ou dias) na configuração.
 
-<img src="imported/shared/b6c15693fd36aaff.jpg" alt="Evento.jpg"/>
+<img src="../../images/imported/shared/b6c15693fd36aaff.jpg" alt="Evento.jpg"/>
 
 ---
 
@@ -217,4 +217,4 @@ Recurso que permite a sobreposição de conteúdo adicional sobre o conteúdo pr
 - Utilizado para exibir anúncios ou mensagens temporárias.
 - O conteúdo principal continua sendo exibido normalmente em segundo plano.
 
-<img src="imported/shared/bed83b75f06a8204.png" alt="image-20250916-172157.png"/>
+<img src="../../images/imported/shared/bed83b75f06a8204.png" alt="image-20250916-172157.png"/>

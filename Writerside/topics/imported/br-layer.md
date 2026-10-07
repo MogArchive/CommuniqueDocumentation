@@ -18,10 +18,10 @@ Durante a exibição, o Layer é apresentado como um vídeo ou imagem animada so
 
 ## 1. Layer - Tela inicial
 
-<img src="imported/shared/62ccdefd8040bab2.png" alt="image-20251030-151135.png"/>
+<img src="../../images/imported/shared/62ccdefd8040bab2.png" alt="image-20251030-151135.png"/>
 
 1. **Ícone**
-  <img src="imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
+  <img src="../../images/imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
   : Inicia a programação de *Layers*.
 2. **Filtros:**
   - **Todos**: Exibe todos os registros disponíveis.
@@ -35,7 +35,7 @@ Durante a exibição, o Layer é apresentado como um vídeo ou imagem animada so
 
 ### 1.1 Layer - Cards
 
-<img src="imported/shared/5e37e9647285b385.png" alt="image-20251030-151100.png"/>
+<img src="../../images/imported/shared/5e37e9647285b385.png" alt="image-20251030-151100.png"/>
 
 1. **Imagem**: Imagem referente à mídia programada.
 2. **Nome:**Nome utilizado na programação do *Layer*.
@@ -49,11 +49,11 @@ Durante a exibição, o Layer é apresentado como um vídeo ou imagem animada so
 
 Clique no ícone
 
-<img src="imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
+<img src="../../images/imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
 
  para iniciar a **programação de*****Layer***.
 
-<img src="imported/shared/6da757553a7d935c.png" alt="image-20251029-182553.png"/>
+<img src="../../images/imported/shared/6da757553a7d935c.png" alt="image-20251029-182553.png"/>
 
 A programação é dividida em 4 fases:
 
@@ -68,7 +68,7 @@ A programação é dividida em 4 fases:
 
 Esta sessão permite inserir as informações básicas de configuração da campanha antes de prosseguir para as próximas etapas.
 
-<img src="imported/shared/f4a878b70c2e7343.png" alt="image-20251029-184107.png"/>
+<img src="../../images/imported/shared/f4a878b70c2e7343.png" alt="image-20251029-184107.png"/>
 
 1. **Nome:**Campo obrigatório para definir o nome identificador da campanha ou mídia.
 2. **Descrição:**Campo opcional para incluir observações, informações complementares ou detalhes internos sobre a campanha.
@@ -88,7 +88,7 @@ Esta sessão é destinada à **seleção das mídias** que serão vinculadas à 
 O usuário poderá selecionar uma ou mais mídias disponíveis na lista.
 Caso uma mesma mídia possua versões em diferentes formatos, é possível selecionar****todos os formatos desejados.
 
-<img src="imported/shared/d1c595b8626edc52.png" alt="image-20251029-190208.png"/>
+<img src="../../images/imported/shared/d1c595b8626edc52.png" alt="image-20251029-190208.png"/>
 
 1. **Campo “Buscar”:**Permite localizar uma mídia específica pelo nome.
 2. **Caixa de seleção:**A caixa de seleção permite selecionar ou desmarcar todas as mídias listadas.
@@ -105,7 +105,7 @@ Caso uma mesma mídia possua versões em diferentes formatos, é possível selec
 Esta sessão é responsável pela seleção dos **players** onde as mídias da programação serão exibidas.
 A lista é organizada por cinema e permite definir quais players estão aptos a receber a mídia selecionada na etapa anterior.
 
-<img src="imported/shared/14f68e59b95c0bfc.png" alt="image-20251030-144233.png"/>
+<img src="../../images/imported/shared/14f68e59b95c0bfc.png" alt="image-20251030-144233.png"/>
 
 1. **Barra de Busca:**Campo para localizar cinemas rapidamente digitando nome ou código.
   - Inclui ícone de lupa para confirmar a pesquisa.
@@ -124,7 +124,7 @@ A lista é organizada por cinema e permite definir quais players estão aptos a 
 
 Tela final que apresenta uma pré-visualização completa das informações inseridas nas etapas anteriores antes da criação do evento.
 
-<img src="imported/shared/0bab26612b2340b5.png" alt="image-20251030-144715.png"/>
+<img src="../../images/imported/shared/0bab26612b2340b5.png" alt="image-20251030-144715.png"/>
 
 1. **Detalhes:**Exibe os dados gerais da programação:
   - Nome.

@@ -18,7 +18,7 @@ Além disso, a tela fornece um histórico de exclusões, permitindo rastrear qua
 
 ## 1. GO Operation
 
-<img src="imported/shared/d1c65d6fc2b60b84.png" alt="image-20251030-171851.png"/>
+<img src="../../images/imported/shared/d1c65d6fc2b60b84.png" alt="image-20251030-171851.png"/>
 
 #### **1. Botão “Selecionar Cinema”**
 

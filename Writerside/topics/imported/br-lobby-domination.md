@@ -24,7 +24,7 @@ Atenção às regras de programação para diferentes tipos de Lobby Domination
 
 ## 2. Lobby Domination - Tela inicial
 
-<img src="imported/shared/642c6cc6bc448ef0.png" alt="image-20251030-153103.png"/>
+<img src="../../images/imported/shared/642c6cc6bc448ef0.png" alt="image-20251030-153103.png"/>
 
 1. **Botão de criação (+):**Inicia o processo para criar uma nova programação de Lobby Domination.
 2. **Card principal em destaque:**Exibe a programação atual/selecionada com:
@@ -49,11 +49,11 @@ Atenção às regras de programação para diferentes tipos de Lobby Domination
 
 Clique no ícone
 
-<img src="imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/>
+<img src="../../images/imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/>
 
  para iniciar a **programação de*****Lobby Domination***.
 
-<img src="imported/shared/a53af6c7d76f90c3.png" alt="image-20260818-145609.png"/>
+<img src="../../images/imported/shared/a53af6c7d76f90c3.png" alt="image-20260818-145609.png"/>
 
 A programação é dividida em 4 fases:
 
@@ -66,7 +66,7 @@ A programação é dividida em 4 fases:
 
 ### 3.1 Detalhes
 
-<img src="imported/shared/a53af6c7d76f90c3.png" alt="image-20260818-145646.png"/>
+<img src="../../images/imported/shared/a53af6c7d76f90c3.png" alt="image-20260818-145646.png"/>
 
 1. **Nome:**Campo para inserir o nome da programação.
 2. **Descrição:**Campo opcional para adicionar uma breve descrição da programação.
@@ -88,7 +88,7 @@ Esta seção é destinada à **seleção das mídias** que serão vinculadas à 
 O usuário poderá selecionar uma ou mais mídias disponíveis na lista.
 Caso uma mesma mídia possua versões em diferentes formatos, é possível selecionar****todos os formatos desejados.
 
-<img src="imported/shared/d1c595b8626edc52.png" alt="image-20251029-190208.png"/>
+<img src="../../images/imported/shared/d1c595b8626edc52.png" alt="image-20251029-190208.png"/>
 
 1. **Campo “Buscar”:**Permite localizar uma mídia específica pelo nome.
 2. **Caixa de seleção:**A caixa de seleção permite selecionar ou desmarcar todas as mídias listadas.
@@ -105,7 +105,7 @@ Caso uma mesma mídia possua versões em diferentes formatos, é possível selec
 Esta seção é responsável pela seleção dos **players** onde as mídias da programação serão exibidas.
 A lista é organizada por cinema e permite definir quais players estão aptos a receber a mídia selecionada na etapa anterior.
 
-<img src="imported/shared/99c59de941f58bb9.png" alt="image-20251030-163151.png"/>
+<img src="../../images/imported/shared/99c59de941f58bb9.png" alt="image-20251030-163151.png"/>
 
 1. **Barra de Busca:**Campo para localizar cinemas rapidamente digitando nome ou código.
   - Inclui ícone de lupa para confirmar a pesquisa.
@@ -124,7 +124,7 @@ A lista é organizada por cinema e permite definir quais players estão aptos a 
 
 Tela final que apresenta uma pré-visualização completa das informações inseridas nas etapas anteriores antes da criação do evento.
 
-<img src="imported/shared/0bab26612b2340b5.png" alt="image-20251030-144715.png"/>
+<img src="../../images/imported/shared/0bab26612b2340b5.png" alt="image-20251030-144715.png"/>
 
 1. **Detalhes:**Exibe os dados gerais da programação:
   - Nome.

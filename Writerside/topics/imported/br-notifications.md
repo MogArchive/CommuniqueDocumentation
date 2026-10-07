@@ -16,7 +16,7 @@ Ela facilita o acompanhamento de atividades relevantes, como atualizações, avi
 
 ### **1. Notificações**
 
-<img src="imported/shared/70834608314ba374.png" alt="image-20251030-164652.png"/>
+<img src="../../images/imported/shared/70834608314ba374.png" alt="image-20251030-164652.png"/>
 
 ### **1.1 Estatísticas da sua caixa**
 

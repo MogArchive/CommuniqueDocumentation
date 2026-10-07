@@ -80,6 +80,11 @@ class MarkdownConverter:
     def image(self, node) -> str:
         raw_src = node.get("data-image-src") or node.get("src") or ""
         relative = unquote(urlsplit(raw_src).path).lstrip("/")
+        if (
+            relative == "wiki/images/icons/grey_arrow_down.png"
+            and "expand-control-image" in (node.get("class") or "").split()
+        ):
+            return ""
         source = self.source_root / relative
         if not source.is_file():
             return f"\n\n> Imagem não encontrada no ZIP: `{relative}`\n\n"
@@ -107,7 +112,7 @@ class MarkdownConverter:
         if not dark_destination.exists():
             shutil.copy2(source, dark_destination)
         self.copied_images.append(name)
-        return f'\n\n<img src="imported/shared/{name}" alt="{alt}"/>\n\n'
+        return f'\n\n<img src="../../images/imported/shared/{name}" alt="{alt}"/>\n\n'
 
     def link(self, node) -> str:
         label = clean_text(self.children(node)) or clean_text(node.get("href"))
@@ -199,7 +204,11 @@ def import_export(language: str, archive: Path, output: Path) -> dict:
     with tempfile.TemporaryDirectory(prefix=f"communique-{language}-") as temp:
         temp_root = Path(temp)
         with zipfile.ZipFile(archive) as source_zip:
-            source_zip.extractall(temp_root)
+            members = [
+                entry for entry in source_zip.infolist()
+                if not (entry.is_dir() and not entry.filename.strip("/\\"))
+            ]
+            source_zip.extractall(temp_root, members=members)
         html_files = sorted(p for p in temp_root.rglob("*.html") if p.name.lower() != "index.html")
         pages = []
         for path in html_files:
@@ -235,16 +244,20 @@ def update_tree(reports: list[dict]) -> None:
     for report in reports:
         language = report["language"]
         name = "Communique 5.3 — Português" if language == "br" else "Communique 5.3 — Español"
+        start_page = "br-glossario.md" if language == "br" else "es-glosario.md"
+        pages = report["pages"]
+        if not any(page["topic"] == start_page for page in pages):
+            raise ValueError(f"Página inicial não encontrada para {language}: {start_page}")
+        ordered_pages = sorted(pages, key=lambda page: page["topic"] != start_page)
         sections = [
             '<?xml version="1.0" encoding="UTF-8"?>',
             '<!DOCTYPE instance-profile SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">',
             "",
-            f'<instance-profile id="{language}" name="{name}" start-page="{language}-index.md">',
-            f'    <toc-element topic="{language}-index.md">',
+            f'<instance-profile id="{language}" name="{name}" start-page="{start_page}">',
         ]
-        for page in report["pages"]:
-            sections.append(f'        <toc-element topic="{page["topic"]}"/>')
-        sections.extend(["    </toc-element>", "</instance-profile>", ""])
+        for page in ordered_pages:
+            sections.append(f'    <toc-element topic="{page["topic"]}"/>')
+        sections.extend([f'    <toc-element topic="{language}-index.md"/>', "</instance-profile>", ""])
         (ROOT / "Writerside" / f"{language}.tree").write_text("\n".join(sections), encoding="utf-8", newline="\n")
 
     if LEGACY_TREE_PATH.is_file():

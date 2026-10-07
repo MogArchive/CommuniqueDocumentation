@@ -75,8 +75,9 @@ jobs:
           unzip -O UTF-8 -qq artifacts/webHelpBR2-all.zip -d site
           unzip -O UTF-8 -qq artifacts/webHelpES2-all.zip -d site/es
           cp Writerside/versions.json site/versions.json
-          cp site/br-index.html site/communique5.html
+          cp site/br-glossario.html site/communique5.html
           printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=communique5.html"><title>Communique 5.3</title><a href="communique5.html">Abrir documentação</a>\n' > site/index.html
+          printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=es-glosario.html"><title>Communique 5.3 ES</title><a href="es-glosario.html">Abrir documentación</a>\n' > site/es/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

@@ -25,7 +25,7 @@ Atención a las reglas de programación para los diferentes tipos de Lobby Domin
 
 ## 2. Lobby Domination - Pantalla de inicio
 
-<img src="imported/shared/aed61114e7b9144d.png" alt="image-20251031-222657.png"/>
+<img src="../../images/imported/shared/aed61114e7b9144d.png" alt="image-20251031-222657.png"/>
 
 1. **Botão de criação (+):**Inicia o processo para criar uma nova programação de Lobby Domination.
 2. **Card principal em destaque:**Exibe a programação atual/selecionada com:
@@ -49,11 +49,11 @@ Atención a las reglas de programación para los diferentes tipos de Lobby Domin
 
 Haz clic en el icono
 
-<img src="imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/>
+<img src="../../images/imported/shared/d92d1616d6ae888d.png" alt="image-20251029-180815.png"/>
 
  para empezar a **programar el*****Lobby Domination***.
 
-<img src="imported/shared/cadebb3f5688e1ac.png" alt="ld att-20260818-144818.png"/>
+<img src="../../images/imported/shared/cadebb3f5688e1ac.png" alt="ld att-20260818-144818.png"/>
 
 La programación se divide en 4 fases:
 
@@ -66,7 +66,7 @@ La programación se divide en 4 fases:
 
 ### 4.1 Detalles
 
-<img src="imported/shared/cadebb3f5688e1ac.png" alt="ld att-20260818-144818.png"/>
+<img src="../../images/imported/shared/cadebb3f5688e1ac.png" alt="ld att-20260818-144818.png"/>
 
 1. **Nombre:** Campo para introducir el nombre del programa.
 2. **Descripción:**Campo opcional para añadir una breve descripción del programa.
@@ -90,7 +90,7 @@ El usuario puede seleccionar uno o más archivos multimedia de la lista.
 
 Si un mismo archivo multimedia tiene versiones en diferentes formatos, es posible seleccionar todos los formatos deseados.
 
-<img src="imported/shared/5610909987c447d3.png" alt="image-20251031-223332.png"/>
+<img src="../../images/imported/shared/5610909987c447d3.png" alt="image-20251031-223332.png"/>
 
 1. **Campo de búsqueda**: Permite localizar un elemento multimedia específico por su nombre.
 2. **Casilla de verificación**: Permite seleccionar o deseleccionar todos los elementos multimedia de la lista.
@@ -107,7 +107,7 @@ Si un mismo archivo multimedia tiene versiones en diferentes formatos, es posibl
 Esta sesión es responsable de seleccionar el **players** donde se mostrará el contenido multimedia de la programación
 La lista está organizada por cine y permite definir qué reproductores son elegibles para recibir el material seleccionado en el paso anterior.
 
-<img src="imported/shared/fa5e8aa144f9e9c7.png" alt="image-20251031-223406.png"/>
+<img src="../../images/imported/shared/fa5e8aa144f9e9c7.png" alt="image-20251031-223406.png"/>
 
 1. **Barra de Búsqueda:**Campo para localizar cines rápidamente escribiendo el nombre o el código.
   - Incluye ícono de lupa para confirmar la búsqueda.
@@ -127,7 +127,7 @@ La lista está organizada por cine y permite definir qué reproductores son eleg
 
 Pantalla final que presenta una vista previa completa de la información ingresada en los pasos anteriores antes de que se creara el evento.
 
-<img src="imported/shared/f1d0d178cd30a888.png" alt="image-20251031-223434.png"/>
+<img src="../../images/imported/shared/f1d0d178cd30a888.png" alt="image-20251031-223434.png"/>
 
 1. **Detalles:**Exhibe los datos generales de la programación:
   - Nombre.
