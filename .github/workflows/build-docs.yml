@@ -68,11 +68,12 @@ jobs:
 
       - name: Assemble multilingual site
         run: |
-          mkdir -p site/br site/es
-          unzip -O UTF-8 -qq artifacts/webHelpBR-all.zip -d site/br
+          mkdir -p site site/es
+          unzip -O UTF-8 -qq artifacts/webHelpBR-all.zip -d site
           unzip -O UTF-8 -qq artifacts/webHelpES-all.zip -d site/es
           cp Writerside/versions.json site/versions.json
-          printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=br/"><title>Communique 5.3</title><a href="br/">Abrir documentação</a>\n' > site/index.html
+          cp site/br-index.html site/communique5.html
+          printf '<!doctype html><meta charset="utf-8"><meta http-equiv="refresh" content="0; url=communique5.html"><title>Communique 5.3</title><a href="communique5.html">Abrir documentação</a>\n' > site/index.html
 
       - name: Setup Pages
         uses: actions/configure-pages@v4

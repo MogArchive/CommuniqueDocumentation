@@ -10,13 +10,13 @@
 
 Esta seção é responsável pelo gerenciamento dos Preços Dinâmicos e informações adicionais do plugin Combo.
 
-<img src="$WRS_MODULE$/images/imported/shared/fef6116bcb163f12.png" alt="image-20251103-160034.png"/>
+<img src="imported/shared/fef6116bcb163f12.png" alt="image-20251103-160034.png"/>
 
 ---
 
 ## **1. Preços Dinâmicos**
 
-<img src="$WRS_MODULE$/images/imported/shared/96c3176bfdc3d440.png" alt="image-20251103-155852.png"/>
+<img src="imported/shared/96c3176bfdc3d440.png" alt="image-20251103-155852.png"/>
 
 A tela de **Preços Dinâmicos** apresenta o controle e o histórico de variações de valores aplicados aos ingressos de filmes, permitindo visualizar e gerenciar períodos com ajustes específicos de preço.
 
@@ -36,7 +36,7 @@ Essa tela possibilita uma gestão centralizada das alterações de preços, gara
 
 ## 2. Combos
 
-<img src="$WRS_MODULE$/images/imported/shared/2a42e3aebf0cac13.png" alt="image-20251103-160833.png"/>
+<img src="imported/shared/2a42e3aebf0cac13.png" alt="image-20251103-160833.png"/>
 
 Ao acessar, é possível visualizar os combos previamente cadastrados. Cada linha da tabela representa um **combo** individual e contém as seguintes colunas:
 
@@ -45,21 +45,21 @@ Ao acessar, é possível visualizar os combos previamente cadastrados. Cada linh
 3. **Itens**: lista detalhada dos produtos que compõem o combo (exemplo: *1 Pipoca Grande Salgada com Refil, 1 Bebida Grande*).
 4. **Legal**: campo destinado a incluir informações legais, observações ou textos obrigatórios relacionados ao combo (exemplo: *válido enquanto durarem os estoques*, *imagens ilustrativas*).
 5. **Ícone**
-  <img src="$WRS_MODULE$/images/imported/shared/1ef16fd5ef53f995.png" alt="image-20251103-162811.png"/>
+  <img src="imported/shared/1ef16fd5ef53f995.png" alt="image-20251103-162811.png"/>
   : Permite adicionar um novo combo, abrindo o formulário de cadastro para inserção de informações.
 
-<img src="$WRS_MODULE$/images/imported/shared/69f138c8ea8dc251.png" alt="image-20251103-163618.png"/>
+<img src="imported/shared/69f138c8ea8dc251.png" alt="image-20251103-163618.png"/>
 
-- <img src="$WRS_MODULE$/images/imported/shared/a47fd82dbc0d6c9f.png" alt="image-20251103-163837.png"/>
+- <img src="imported/shared/a47fd82dbc0d6c9f.png" alt="image-20251103-163837.png"/>
    Adiciona caixa de item
-- <img src="$WRS_MODULE$/images/imported/shared/d4fbfb3b2f813e8d.png" alt="image-20251103-163910.png"/>
+- <img src="imported/shared/d4fbfb3b2f813e8d.png" alt="image-20251103-163910.png"/>
    Remove caixa de item
 
 À direita de cada registro, há dois ícones de ação:
 
-- <img src="$WRS_MODULE$/images/imported/shared/4ddd75941df6d7fe.png" alt="image-20251103-162712.png"/>
+- <img src="imported/shared/4ddd75941df6d7fe.png" alt="image-20251103-162712.png"/>
    – utilizada para excluir o combo selecionado.
-- <img src="$WRS_MODULE$/images/imported/shared/79005b71d694c36c.png" alt="image-20251103-162733.png"/>
+- <img src="imported/shared/79005b71d694c36c.png" alt="image-20251103-162733.png"/>
    – permite editar as informações do combo existente.
 
 Todas as informações adicionadas nessa tela serão exibidas pelo plugin Combo, **exatamente como foram digitadas**. Portanto, é necessário ter atenção redobrada ao preenche-la.

@@ -10,7 +10,7 @@
 
 Sección destinada a la programación y gestión de **Evento**, **Layer** y **Lobby Domination**.
 
-<img src="$WRS_MODULE$/images/imported/shared/0bc6b43d08e19f7d.png" alt="image-20251031-211907.png"/>
+<img src="imported/shared/0bc6b43d08e19f7d.png" alt="image-20251031-211907.png"/>
 
 Dividida en:
 

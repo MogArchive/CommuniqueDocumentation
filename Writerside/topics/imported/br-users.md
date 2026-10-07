@@ -12,7 +12,7 @@ Seção destinada ao gerenciamento dos usuários do sistema.
 
 Divididas em “***All Users***” e “***Permissions***”.
 
-<img src="$WRS_MODULE$/images/imported/shared/f742a7714da7b467.png" alt="image-20250912-201422.png"/>
+<img src="imported/shared/f742a7714da7b467.png" alt="image-20250912-201422.png"/>
 
 ---
 
@@ -20,14 +20,14 @@ Divididas em “***All Users***” e “***Permissions***”.
 
 Tela referente ao gerenciamento dos usuários cadastrados.
 
-<img src="$WRS_MODULE$/images/imported/shared/f46285d87964ad72.png" alt="image-20250912-183644.png"/>
+<img src="imported/shared/f46285d87964ad72.png" alt="image-20250912-183644.png"/>
 
 1. **Name:** Nome do usuário.
 2. **email:** E-mail de contato profissional.
 3. **User name:**Log-in do usuário no sistema.
 4. **CreatedAt:**Data de criação do usuário no sistema.
 5. **Ícone “**
-  <img src="$WRS_MODULE$/images/imported/shared/f5110603dc5e9077.png" alt="image-20250911-183944.png"/>
+  <img src="imported/shared/f5110603dc5e9077.png" alt="image-20250911-183944.png"/>
   **”:**Ao clicar, será exibida a tela de cadastro abaixo, contendo os campos:
   1. **Name:** Nome do usuário.
   2. **userName:** Log-in do usuário no sistema.
@@ -41,7 +41,7 @@ Tela referente ao gerenciamento dos usuários cadastrados.
   10. **Support Leader:**Determina se o usuário é o Líder de suporte, habilitando a função de envio de e-mail na tela inicial do dashboard - parte superior.
 6. **Ícone “SAVE”:**Salva as informações e cria um novo usuário.
 
-<img src="$WRS_MODULE$/images/imported/shared/06b44b708aa75d1e.png" alt="image-20250912-191807.png"/>
+<img src="imported/shared/06b44b708aa75d1e.png" alt="image-20250912-191807.png"/>
 
 ---
 
@@ -49,4 +49,4 @@ Tela referente ao gerenciamento dos usuários cadastrados.
 
 Lista de *roles* disponíveis no sistema. As permissões são gerenciadas diretamente no banco de dados e definem os níveis de acesso dos usuários.
 
-<img src="$WRS_MODULE$/images/imported/shared/735f4de35f4eadd8.png" alt="image-20250912-192216.png"/>
+<img src="imported/shared/735f4de35f4eadd8.png" alt="image-20250912-192216.png"/>

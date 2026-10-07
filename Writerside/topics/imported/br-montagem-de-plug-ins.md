@@ -29,7 +29,7 @@ Exemplo: Uma saída de vídeo em resolução **Full HD** pode ser dividida em qu
 
 Segue ilustração:
 
-<img src="$WRS_MODULE$/images/imported/shared/8cdedb1790ef9e33.png" alt="divisaosaidas.png"/>
+<img src="imported/shared/8cdedb1790ef9e33.png" alt="divisaosaidas.png"/>
 
 ---
 
@@ -37,7 +37,7 @@ Segue ilustração:
 
 Na tela de montagem temos:
 
-<img src="$WRS_MODULE$/images/imported/shared/f21cdb4725191019.png" alt="image-20250916-173602.png"/>
+<img src="imported/shared/f21cdb4725191019.png" alt="image-20250916-173602.png"/>
 
 1. **Novo layout:**Cria um novo layout para o player, que pode ser usado como layout alternativo.
 2. **Menu Layouts:**Seleção do layout que será configurado/visualizado.
@@ -74,7 +74,7 @@ Os plug-ins são:
 9. Inactive
 10. Orderscreen - não utilizado
 
-<img src="$WRS_MODULE$/images/imported/shared/ce667e532a2577a8.png" alt="image-20250917-145540.png"/>
+<img src="imported/shared/ce667e532a2577a8.png" alt="image-20250917-145540.png"/>
 
 ---
 
@@ -84,7 +84,7 @@ Exibe o horário e tipo das sessões e elas podem ser ordenadas alfabeticamente,
 
 Também é possível filtrar para que exiba apenas sessões regulares ou prime.
 
-<img src="$WRS_MODULE$/images/imported/shared/6bbe9242b3c4676e.png" alt="image-20250917-145630.png"/>
+<img src="imported/shared/6bbe9242b3c4676e.png" alt="image-20250917-145630.png"/>
 
 1. **Plug-in Screen:**Indica qual tela do plug-in deve ser exibida (varia entre 1 e 2 no Showtimes 2.0).
 2. **Videowall Screen:**Posição no videowall (1 a 16).
@@ -107,7 +107,7 @@ Exemplo
 
 O **Showtimes 2.0**, possui uma tela auxiliar, podendo funcionar como 1x1 ou 2x1. Para exibi-la, a segunda tela do plug-in deve ter o número 2 na configuração *Plugin Screen*.
 
-<img src="$WRS_MODULE$/images/imported/shared/e3afe0dbc1082553.png" alt="2.png"/>
+<img src="imported/shared/e3afe0dbc1082553.png" alt="2.png"/>
 
 ---
 
@@ -115,7 +115,7 @@ O **Showtimes 2.0**, possui uma tela auxiliar, podendo funcionar como 1x1 ou 2x1
 
 Exibe horários de sessões junto ao pôster do filme.
 
-<img src="$WRS_MODULE$/images/imported/shared/25dcee9cea9a68e5.png" alt="image-20260224-161318.png"/>
+<img src="imported/shared/25dcee9cea9a68e5.png" alt="image-20260224-161318.png"/>
 
 1. **Plug-in Screen**: Tela do plug-in (1 até nº de telas utilizadas).
   - É necessário que cada tela seja preenchida com o número correspondente para que não haja duplicidade ou falta de conteúdo.
@@ -148,7 +148,7 @@ O **BoxOffice**, possui telas com 1, 3, 4 e 8 filmes.
 
 A configuração de telas do Boxoffice precisa levar em conta a quantidade de plug-ins que serão utilizados pelo player. Ex.: Em um player com 4 BoxOffice, o *Plugin Screen* será de 1 à 4.
 
-<img src="$WRS_MODULE$/images/imported/shared/84dca33473e1303c.png" alt="3.png"/>
+<img src="imported/shared/84dca33473e1303c.png" alt="3.png"/>
 
 **Ilustração de combinações**
 
@@ -160,19 +160,19 @@ Diferentes combinações de layout são permitidas e, no caso de mais de um tipo
 
 ##### BoxOffice 1 Filme
 
-<img src="$WRS_MODULE$/images/imported/shared/0c4e909bb41e685c.png" alt="5.png"/>
+<img src="imported/shared/0c4e909bb41e685c.png" alt="5.png"/>
 
 ##### BoxOffice 3 Filmes
 
-<img src="$WRS_MODULE$/images/imported/shared/c86c1fed979da94c.png" alt="6.png"/>
+<img src="imported/shared/c86c1fed979da94c.png" alt="6.png"/>
 
 ##### BoxOffice 4 Filmes
 
-<img src="$WRS_MODULE$/images/imported/shared/a3ccfb874733aa0c.png" alt="7.png"/>
+<img src="imported/shared/a3ccfb874733aa0c.png" alt="7.png"/>
 
 ##### BoxOffice 8 Filmes
 
-<img src="$WRS_MODULE$/images/imported/shared/a29382d24728db42.png" alt="8.png"/>
+<img src="imported/shared/a29382d24728db42.png" alt="8.png"/>
 
 ---
 
@@ -180,7 +180,7 @@ Diferentes combinações de layout são permitidas e, no caso de mais de um tipo
 
 Utilizado para exibição de vídeos ou imagens programados em uma **playlist**.
 
-<img src="$WRS_MODULE$/images/imported/shared/40841ea8f77db26b.png" alt="image-20250917-150150.png"/>
+<img src="imported/shared/40841ea8f77db26b.png" alt="image-20250917-150150.png"/>
 
 1. **Plug-in Screen:**Corresponde ao quadrante do vídeo exibido.
 2. **Position:**Posição no videowall.
@@ -211,7 +211,7 @@ Expandir
 
 Os campos do plug-in são preenchidos com o número 1, com exceção do *Plugin Screen*, que sempre vai ser preenchido com a posição da tela no videowall.
 
-<img src="$WRS_MODULE$/images/imported/shared/bdb5da4c2d7f18fe.png" alt="9-10.png"/>
+<img src="imported/shared/bdb5da4c2d7f18fe.png" alt="9-10.png"/>
 
 **PLAYER 2X1**
 
@@ -219,7 +219,7 @@ Na primeira tela do plug-in os campos *Player Width* e *Player Height*, são pre
 
 Na segunda tela do plug-in, altera-se o campo *Plugin Screen* e *Screen Col* para indicar ao player que ele deve exibir o segundo quadrante do vídeo e é necessário ativar o botão *Hide on Player*.
 
-<img src="$WRS_MODULE$/images/imported/shared/32b4b82159f0c37f.png" alt="11-12.png"/>
+<img src="imported/shared/32b4b82159f0c37f.png" alt="11-12.png"/>
 
 **PLAYER 3X1**
 
@@ -227,13 +227,13 @@ Os campos são preenchidos como no formato 2x1, porém a primeira tela do plug-i
 
 Já a terceira tela, além dos campos de *Plugin Screen* e *Screen Col*, é necessário ativar o botão *It's an extension* para indicar que aquela tela é uma extensão do monitor que será inserido no campo *Extended Monitors*.
 
-<img src="$WRS_MODULE$/images/imported/shared/f6a3856ed6e3e071.png" alt="13-14.png"/>
+<img src="imported/shared/f6a3856ed6e3e071.png" alt="13-14.png"/>
 
 **PLAYER 4X1**
 
 Os campos *Player Width* e *Player Height* são preenchidos para posicionar o vídeo como um 2x2 os demais plug-ins recebem a posição do vídeo e *Player Col* de acordo com o quadrante do vídeo, além do *Hide on player* ativado.
 
-<img src="$WRS_MODULE$/images/imported/shared/f5740c1167e6b364.png" alt="15-16.png"/>
+<img src="imported/shared/f5740c1167e6b364.png" alt="15-16.png"/>
 
 ##### **2. Quando em diferentes saídas de vídeo, mas estão na mesma linha**
 
@@ -247,15 +247,15 @@ Nas demais são preenchidos os campos *Plugin Screen* e *Player Col* de acordo c
 
 **PLAYER 2X1**
 
-<img src="$WRS_MODULE$/images/imported/shared/4245cc420a54b588.png" alt="17-18.png"/>
+<img src="imported/shared/4245cc420a54b588.png" alt="17-18.png"/>
 
 **PLAYER 3X1**
 
-<img src="$WRS_MODULE$/images/imported/shared/e033fffe449e02be.png" alt="19-20.png"/>
+<img src="imported/shared/e033fffe449e02be.png" alt="19-20.png"/>
 
 **PLAYER 4X1**
 
-<img src="$WRS_MODULE$/images/imported/shared/0f260f1daa9ec6c3.png" alt="21-22.png"/>
+<img src="imported/shared/0f260f1daa9ec6c3.png" alt="21-22.png"/>
 
 ##### **3. Quando em diferentes saídas de vídeo, mas em linhas diferentes:**
 
@@ -269,7 +269,7 @@ Os campos de *Screen Line*, *Screen Col*, *Player Width* e *Player Height*, da p
 
 Já na segunda tela, o conteúdo é preenchido conforme os demais 2x1, porém com o *It's an extension* ativo e o *Extendeds Monitors* recebe o número do monitor referente à primeira tela do plug-in.
 
-<img src="$WRS_MODULE$/images/imported/shared/f5005585a3a8c575.png" alt="23-24.png"/>
+<img src="imported/shared/f5005585a3a8c575.png" alt="23-24.png"/>
 
 **PLAYER 3X1 - Exemplo 1**
 
@@ -279,7 +279,7 @@ A segunda tela é preenchida com os campos *Screen Line* e *Screen Col* indicand
 
 Por fim, a terceira tela é preenchida com os campos *Screen Line* e *Screen Col* indicando que aquele será o terceiro quadrante do vídeo, o campo *Extendeds Monitors* recebe o número do monitor referente à primeira tela do plug-in e ativa-se o *It's an extension*.
 
-<img src="$WRS_MODULE$/images/imported/shared/2532937dbdd83f29.png" alt="25-26.png"/>
+<img src="imported/shared/2532937dbdd83f29.png" alt="25-26.png"/>
 
 **PLAYER 3X1 - Exemplo 2**
 
@@ -291,7 +291,7 @@ O campo *Extendeds Monitors* recebe o número do monitor referente à primeira t
 
 Por fim, a terceira tela é preenchida com os campos *Screen Line* e *Screen Col* indicando que aquele será o terceiro quadrante do vídeo e com o *Hide on player* ativado.
 
-<img src="$WRS_MODULE$/images/imported/shared/98d35c9303c79e9a.png" alt="27-28.png"/>
+<img src="imported/shared/98d35c9303c79e9a.png" alt="27-28.png"/>
 
 **PLAYER 4X1**
 
@@ -305,7 +305,7 @@ O campo *Extendeds Monitors* recebe o número do monitor referente à primeira t
 
 Por fim, a quarta tela é preenchida com os campos *Screen Line* e *Screen Col* indicando que aquele será o terceiro quadrante do vídeo e com o *Hide on player* ativado.
 
-<img src="$WRS_MODULE$/images/imported/shared/7b0488fe8070ae64.png" alt="29-30.png"/>
+<img src="imported/shared/7b0488fe8070ae64.png" alt="29-30.png"/>
 
 ---
 
@@ -315,7 +315,7 @@ Por fim, a quarta tela é preenchida com os campos *Screen Line* e *Screen Col* 
 
 Utilizado nas portas de sala dos cinemas, exibe o pôster do filme que está em exibição naquela sala.
 
-<img src="$WRS_MODULE$/images/imported/shared/563e9f9a21eb6fd2.png" alt="image-20250917-150235.png"/>
+<img src="imported/shared/563e9f9a21eb6fd2.png" alt="image-20250917-150235.png"/>
 
 1. **Version:**1.0 e 2.0.
 2. **Room:**Número correspondente à sala do cinema em que o player está localizado.
@@ -329,11 +329,11 @@ Exemplos - Postercase
 
 **Versão 1.0**
 
-<img src="$WRS_MODULE$/images/imported/shared/c0883e30b9880026.png" alt="postercase1BR.png"/>
+<img src="imported/shared/c0883e30b9880026.png" alt="postercase1BR.png"/>
 
 **Versão 2.0**
 
-<img src="$WRS_MODULE$/images/imported/shared/31718fcab2acec85.png" alt="postercase2BR.png"/>
+<img src="imported/shared/31718fcab2acec85.png" alt="postercase2BR.png"/>
 
 #### 2.4.2 Smartpostercase
 
@@ -342,7 +342,7 @@ Exibe trailer, pôster e outras informações dos filmes.
 - *Presentando*, exibe filmes em cartaz do cinema com os horários das sessões.
 - *Proximamente*, exibe filmes que ainda serão lançados e não possui horário.
 
-<img src="$WRS_MODULE$/images/imported/shared/56349ba1f0ad29a4.png" alt="image-20260224-163523.png"/>
+<img src="imported/shared/56349ba1f0ad29a4.png" alt="image-20260224-163523.png"/>
 
 1. **Version:**2.1.
 2. **Plug-in Screen:**Utilizado para indicar qual tela do plug-in deve ser exibida.
@@ -361,11 +361,11 @@ Exemplos - Smartpostercase
 
 **Smartpostercase com diretor e país**
 
-<img src="$WRS_MODULE$/images/imported/shared/e27216dc363e3fed.jpg" alt="smartposter2-20260224-180014.jpg"/>
+<img src="imported/shared/e27216dc363e3fed.jpg" alt="smartposter2-20260224-180014.jpg"/>
 
 **Smartpostercase sem diretor e país**
 
-<img src="$WRS_MODULE$/images/imported/shared/dfc0ac1cededf362.jpg" alt="poster2-20260224-180336.jpg"/>
+<img src="imported/shared/dfc0ac1cededf362.jpg" alt="poster2-20260224-180336.jpg"/>
 
 ---
 
@@ -377,7 +377,7 @@ Os campos iniciais são preenchidos de forma padronizada, independente da versã
 
 O campo *Combos/XML* recebe o endereço da API ou do arquivo json local.
 
-<img src="$WRS_MODULE$/images/imported/shared/07ea52f56cbd64c0.png" alt="image-20260601-125657.png"/>
+<img src="imported/shared/07ea52f56cbd64c0.png" alt="image-20260601-125657.png"/>
 
 1. **Plug-in Screen:**Indica qual tela do plug-in deve ser exibida.
   - As duas versões do plug-in possuem opção 2x1.
@@ -420,7 +420,7 @@ Os campos iniciais são preenchidos de forma padronizada, independente da versã
 
 O campo *Combos/XML* recebe o endereço da API ou do arquivo json local, conforme no exemplo abaixo.
 
-<img src="$WRS_MODULE$/images/imported/shared/27a5084cd9349f5d.png" alt="31-32.png"/>
+<img src="imported/shared/27a5084cd9349f5d.png" alt="31-32.png"/>
 
 ##### Versão 2.1
 
@@ -430,7 +430,7 @@ Esse valor diferenciado vêm direto da API e é exibido com a logo referente ao 
 
 Atualmente utiliza-se Cineplus nos cinemas da América Central e Gold e Pró para a Colômbia.
 
-<img src="$WRS_MODULE$/images/imported/shared/69e590267b689088.png" alt="combos21.png"/>
+<img src="imported/shared/69e590267b689088.png" alt="combos21.png"/>
 
 1. **REGULAR 2x1**
 
@@ -450,7 +450,7 @@ Para a versão 2.0, o campo *width* continuará recebendo o valor 1, porém o bo
 
 O campo *Plugin Screen* recebe o número 1 e 2, respectivamente.
 
-<img src="$WRS_MODULE$/images/imported/shared/dfb32456413f73d6.png" alt="33-34.png"/>
+<img src="imported/shared/dfb32456413f73d6.png" alt="33-34.png"/>
 
 ---
 
@@ -460,7 +460,7 @@ Exibe os demais itens da bomboniere (pipoca, bebida, produtos avulsos).
 
 Os campos iniciais são preenchidos de forma padronizada, independente da versão.
 
-<img src="$WRS_MODULE$/images/imported/shared/844eaa6c3c6bed21.png" alt="1.png"/>
+<img src="imported/shared/844eaa6c3c6bed21.png" alt="1.png"/>
 
 1. **Plug-in Screen:**Indica qual tela do plug-in deve ser exibida.
 2. **Videowall Screen:**Posição no *videowall*
@@ -470,7 +470,7 @@ Os campos iniciais são preenchidos de forma padronizada, independente da versã
 
 #### 2.6.1 Areas config
 
-<img src="$WRS_MODULE$/images/imported/shared/54b43ddc861d5e55.png" alt="image-20250917-153124.png"/>
+<img src="imported/shared/54b43ddc861d5e55.png" alt="image-20250917-153124.png"/>
 
 1. **Box Layout:**Campo preenchido com o tipo de layout utilizado pelo plug-in.
 2. **Code:**Define a categoria principal do produto, sempre representada por uma única letra.
@@ -500,15 +500,15 @@ O Campo *box layout* pode ser selecionado entre:
 
 Expandir
 
-<img src="$WRS_MODULE$/images/imported/shared/8f69e8a1c33a2e65.png" alt="configmenuRegular.png"/>
+<img src="imported/shared/8f69e8a1c33a2e65.png" alt="configmenuRegular.png"/>
 
 ***Show video*****ativado**
 
-<img src="$WRS_MODULE$/images/imported/shared/d78a2784e7e119e5.png" alt="menuRegular2-video.png"/>
+<img src="imported/shared/d78a2784e7e119e5.png" alt="menuRegular2-video.png"/>
 
 ***Show video*****desativado**
 
-<img src="$WRS_MODULE$/images/imported/shared/cbc7f56e2b5dc602.png" alt="menuRegular2-svideo.png"/>
+<img src="imported/shared/cbc7f56e2b5dc602.png" alt="menuRegular2-svideo.png"/>
 
 1. **REGULAR-BISTRO**
 
@@ -520,9 +520,9 @@ Utiliza as mesmas configurações do Menu Regular, alterando apenas os layouts n
 
 Este plug-in tem um layout diferente e é utilizado por cinemas Bistro.
 
-<img src="$WRS_MODULE$/images/imported/shared/a042b558ad611c30.png" alt="configmenuRegBistro.png"/>
+<img src="imported/shared/a042b558ad611c30.png" alt="configmenuRegBistro.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/7162e11b4cd2dbe2.png" alt="menuRegular-Bistro.png"/>
+<img src="imported/shared/7162e11b4cd2dbe2.png" alt="menuRegular-Bistro.png"/>
 
 1. **REGULAR-PREMIERMIX**
 
@@ -534,9 +534,9 @@ Utiliza as mesmas configurações do menu **Regular**, alterando apenas os layou
 
 Este plugin tem um layout diferente e é utilizado por cinemas PremierMix que desejam exibir vídeos no rodapé do plug-in.p
 
-<img src="$WRS_MODULE$/images/imported/shared/1cc2ef4c62b9349c.png" alt="configmenuRegPremier.png"/>
+<img src="imported/shared/1cc2ef4c62b9349c.png" alt="configmenuRegPremier.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/a04a7e75451ffeb5.png" alt="menuRegular-PremierMix.png"/>
+<img src="imported/shared/a04a7e75451ffeb5.png" alt="menuRegular-PremierMix.png"/>
 
 1. **BISTRO**
 
@@ -548,9 +548,9 @@ Este plug-in não tem produtos específicos para categorias (Pipocas A, Bebidas 
 
 Também não possui um vídeo de rodapé, mas é necessário acrescentar o nome dos vídeos que serão exibidos na tela utilizando o campo *Bistro Videos*. Caso haja mais de um vídeo, os nomes devem ser separados por vírgula sem espaço, conforme imagem abaixo.
 
-<img src="$WRS_MODULE$/images/imported/shared/29ff50d7da7f8c37.png" alt="configmenuBistro.png"/>
+<img src="imported/shared/29ff50d7da7f8c37.png" alt="configmenuBistro.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/58df00b6eb2c8025.png" alt="menuBistro.png"/>
+<img src="imported/shared/58df00b6eb2c8025.png" alt="menuBistro.png"/>
 
 1. **PREMIERMIX**
 
@@ -562,9 +562,9 @@ Utiliza as mesmas configurações do Menu Regular, alterando apenas os layouts n
 
 Este plug-in tem um layout diferente e é utilizado por cinemas PremierMix sem vídeo de rodapé.
 
-<img src="$WRS_MODULE$/images/imported/shared/104997538d99d953.png" alt="configmenuPremiermix.png"/>
+<img src="imported/shared/104997538d99d953.png" alt="configmenuPremiermix.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/b5b3580b946a1c09.png" alt="menuPremier-Mix.png"/>
+<img src="imported/shared/b5b3580b946a1c09.png" alt="menuPremier-Mix.png"/>
 
 1. **SELFSERVICE**
 
@@ -576,15 +576,15 @@ Possui apenas um campo obrigatório de categoria, que é o de pipocas. Os demais
 
 Ele também não possui um vídeo de rodapé, mas possui um vídeo padrão que é exibido no rodapé do plug-in automaticamente.
 
-<img src="$WRS_MODULE$/images/imported/shared/557cf2db6b73f488.png" alt="configmenuSelfService.png"/>
+<img src="imported/shared/557cf2db6b73f488.png" alt="configmenuSelfService.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/ecdd34d5c1f23206.png" alt="menuSelf-Service.png"/>
+<img src="imported/shared/ecdd34d5c1f23206.png" alt="menuSelf-Service.png"/>
 
 #### 2.6.2 Font Size
 
 Permite ao usuário selecionar o tamanho da fonte exibida, com três opções disponíveis. Além disso, há uma funcionalidade de pré-visualização que permite verificar como a tela ficará com o tamanho de fonte escolhido.
 
-<img src="$WRS_MODULE$/images/imported/shared/e0db605f4a8beb97.png" alt="menusize4.png"/>
+<img src="imported/shared/e0db605f4a8beb97.png" alt="menusize4.png"/>
 
 ---
 
@@ -592,7 +592,7 @@ Permite ao usuário selecionar o tamanho da fonte exibida, com três opções di
 
 Exibe os preços dos ingressos do cinema, separado por tipo de seção e sala.
 
-<img src="$WRS_MODULE$/images/imported/shared/ec99c7dd7ff74ead.jpg" alt="Prices.jpg"/>
+<img src="imported/shared/ec99c7dd7ff74ead.jpg" alt="Prices.jpg"/>
 
 1. **Plug-in Screen:**Indica qual tela do plug-in deve ser exibida.
   - Este plug-in possui apenas telas 1x1.

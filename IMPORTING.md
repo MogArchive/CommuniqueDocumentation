@@ -37,7 +37,7 @@ O projeto atual publica a instância `Writerside/hi`, cuja navegação está em 
 
 Depois de importar, revise o relatório e as páginas geradas. Os índices e seus tópicos serão incluídos automaticamente na navegação de cada idioma.
 
-O site publicado usa a versão 5.3 e disponibiliza um seletor BR/ES no cabeçalho. O workflow gera `/br/` e `/es/`, publica `versions.json` na raiz e redireciona a página inicial para português.
+O site publicado usa a versão 5.3 e disponibiliza um seletor BR/ES no cabeçalho. O português é publicado na raiz, preservando `/communique5.html`, enquanto o espanhol fica em `/es/`. O workflow também publica `versions.json` na raiz.
 
 O build e a publicação continuam sendo feitos pelo workflow `.github/workflows/build-docs.yml` após o push na branch `main`.
 

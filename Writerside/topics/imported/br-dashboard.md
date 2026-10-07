@@ -10,13 +10,13 @@
 
 É a tela inicial do Communique. O dashboard fornece acesso rápido a informações e configurações globais, facilitando a navegação e o gerenciamento do sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/6bedc353e0ec4a8c.png" alt="Montagem"/>
+<img src="imported/shared/6bedc353e0ec4a8c.png" alt="Montagem"/>
 
 ---
 
 ## 1. Parte Superior
 
-<img src="$WRS_MODULE$/images/imported/shared/fa2e3e85ebc87ce7.png" alt="Montagem"/>
+<img src="imported/shared/fa2e3e85ebc87ce7.png" alt="Montagem"/>
 
 1. **País:** permite ao usuário selecionar o país para o qual deseja visualizar dados e configurações.
 2. **Owner:** permite escolher entre diferentes owners.
@@ -35,7 +35,7 @@
 
 Gráfico de monitoramento do status de sincronização dos players no sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/7beec8d397c4f812.png" alt="Montagem"/>
+<img src="imported/shared/7beec8d397c4f812.png" alt="Montagem"/>
 
 1. **Gráfico:** exibe a porcentagem de players sincronizados em relação ao total de players no sistema.
 2. **Players Ativos:** mostra a quantidade de players que estão em operação no momento.
@@ -49,7 +49,7 @@ Gráfico de monitoramento do status de sincronização dos players no sistema:
 
 Gráfico de monitoramento das mídias no sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/3f1928a72500caed.png" alt="Montagem"/>
+<img src="imported/shared/3f1928a72500caed.png" alt="Montagem"/>
 
 1. **Gráfico em X e Y:** exibe os dados de uploads no eixo Y em relação a quatro datas do último mês no eixo X.
 2. **Mídias Ativas:** mostra o número de mídias que estão atualmente ativas no sistema.
@@ -62,7 +62,7 @@ Gráfico de monitoramento das mídias no sistema:
 
 Gráfico de monitoramento de eventos, lobbys, campanhas e layers no sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/2fc0be5aa3b8e3b0.png" alt="Montagem"/>
+<img src="imported/shared/2fc0be5aa3b8e3b0.png" alt="Montagem"/>
 
 1. **Calendário:** exibe o mês atual e seus dias, mostrando informações programadas para cada dia.
 2. **Legenda de Cores:**
@@ -78,7 +78,7 @@ Gráfico de monitoramento de eventos, lobbys, campanhas e layers no sistema:
 
 Gráfico de monitoramento dos erros de API:
 
-<img src="$WRS_MODULE$/images/imported/shared/f6855b3ed3596c72.png" alt="Montagem"/>
+<img src="imported/shared/f6855b3ed3596c72.png" alt="Montagem"/>
 
 1. **Gráfico de Porcentagem:** mostra a quantidade de erros de API, representada em forma de porcentagem.
 2. **Intervalos de Tempo:** exibe os dados de erros de API para hoje, última semana e último mês.
@@ -89,7 +89,7 @@ Gráfico de monitoramento dos erros de API:
 
 Gráfico de monitoramento dos erros de Players:
 
-<img src="$WRS_MODULE$/images/imported/shared/3f1a2f38ded468cd.png" alt="Montagem"/>
+<img src="imported/shared/3f1a2f38ded468cd.png" alt="Montagem"/>
 
 1. **Gráfico de Porcentagem:** mostra a quantidade de erros de players, representada em forma de porcentagem.
 2. **Intervalos de Tempo:** exibe os dados de erros de players para hoje, última semana e último mês.

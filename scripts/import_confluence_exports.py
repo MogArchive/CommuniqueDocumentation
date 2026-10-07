@@ -103,8 +103,11 @@ class MarkdownConverter:
         destination = self.image_dir / name
         if not destination.exists():
             shutil.copy2(source, destination)
+        dark_destination = destination.with_name(f"{destination.stem}_dark{destination.suffix}")
+        if not dark_destination.exists():
+            shutil.copy2(source, dark_destination)
         self.copied_images.append(name)
-        return f'\n\n<img src="$WRS_MODULE$/images/imported/shared/{name}" alt="{alt}"/>\n\n'
+        return f'\n\n<img src="imported/shared/{name}" alt="{alt}"/>\n\n'
 
     def link(self, node) -> str:
         label = clean_text(self.children(node)) or clean_text(node.get("href"))
@@ -282,7 +285,7 @@ def main() -> int:
     report_path.write_text(json.dumps(reports, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     for report in reports:
         print(f"{report['language'].upper()}: {len(report['pages'])} páginas, {report['images']} imagens")
-    unique_images = len(list((IMAGES_ROOT / "shared").glob("*")))
+    unique_images = len([p for p in (IMAGES_ROOT / "shared").glob("*") if not p.stem.endswith("_dark")])
     print(f"Imagens únicas compartilhadas: {unique_images}")
     print(f"Relatório: {report_path.relative_to(ROOT)}")
     return 0

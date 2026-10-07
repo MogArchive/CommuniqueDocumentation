@@ -10,7 +10,7 @@
 
 La sección de **Monitoreo**es responsable del seguimiento en tiempo real del funcionamiento y la conectividad de los componentes del sistema. A través de ella, es posible monitorear el estado de las ***APIs***, la actividad de los ***players***, los períodos ***offline*******y la **salud general del sistema**. Esta sección ofrece una visión centralizada del rendimiento operativo, permitiendo la identificación rápida de fallas y la adopción de acciones correctivas para garantizar la estabilidad y la continuidad de los servicios.
 
-<img src="$WRS_MODULE$/images/imported/shared/d842b9d44fad5a26.png" alt="image-20251103-233634.png"/>
+<img src="imported/shared/d842b9d44fad5a26.png" alt="image-20251103-233634.png"/>
 
 Dividido en:
 
@@ -71,7 +71,7 @@ Esta visualización ofrece un diagnóstico completo del estado operativo de cada
 
 ## 3. Offline
 
-<img src="$WRS_MODULE$/images/imported/shared/004ff2b48679f870.png" alt="image-20251103-233846.png"/>
+<img src="imported/shared/004ff2b48679f870.png" alt="image-20251103-233846.png"/>
 
 La pantalla de **Monitoreo –*****Offline*** muestra un informe detallado generado a partir del *cinema* seleccionado y de los *players* asociados a él. El informe presenta información sobre el estado de **sincronización (*****Sync*****), descargas (*****Downloads*****)**y **conexiones de*****API***, permitiendo seguir el funcionamiento y la disponibilidad de cada *player*.
 

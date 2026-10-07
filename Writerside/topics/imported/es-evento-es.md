@@ -18,10 +18,10 @@ Durante el **Evento**, los contenidos se configuran para aparecer en pantallas e
 
 ## 1. Evento – Pantalla inicial
 
-<img src="$WRS_MODULE$/images/imported/shared/54d4b71693491416.png" alt="image-20251031-212305.png"/>
+<img src="imported/shared/54d4b71693491416.png" alt="image-20251031-212305.png"/>
 
 1. **Icono**
-  <img src="$WRS_MODULE$/images/imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
+  <img src="imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
   : Inicia la programación de eventos.
 2. **Filtros:**
   - **Todos:** Muestra todas las programaciones.
@@ -34,7 +34,7 @@ Durante el **Evento**, los contenidos se configuran para aparecer en pantallas e
 
 ### 1.1 Evento - Cards
 
-<img src="$WRS_MODULE$/images/imported/shared/671d0372aea35029.png" alt="image-20251031-212401.png"/>
+<img src="imported/shared/671d0372aea35029.png" alt="image-20251031-212401.png"/>
 
 1. **Imagen:** Imagen correspondiente al medio programado.
 2. **Nombre:** Nombre utilizado en la programación del Evento (Tang).
@@ -48,11 +48,11 @@ Durante el **Evento**, los contenidos se configuran para aparecer en pantallas e
 
 Haga clic en el ícono
 
-<img src="$WRS_MODULE$/images/imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
+<img src="imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
 
  para iniciar la **programación del evento.**
 
-<img src="$WRS_MODULE$/images/imported/shared/38e6b22727389f68.png" alt="image-20251031-212502.png"/>
+<img src="imported/shared/38e6b22727389f68.png" alt="image-20251031-212502.png"/>
 
 La programación se divide en **4 fases**:
 
@@ -67,7 +67,7 @@ La programación se divide en **4 fases**:
 
 Esta sección permite ingresar la información básica de configuración de la campaña antes de continuar con las siguientes etapas.
 
-<img src="$WRS_MODULE$/images/imported/shared/a4f23bf6cded7822.png" alt="image-20251031-212602.png"/>
+<img src="imported/shared/a4f23bf6cded7822.png" alt="image-20251031-212602.png"/>
 
 1. **Nombre:** Campo obligatorio para definir el nombre identificador de la campaña o del medio.
 2. **Descripción:** Campo opcional para incluir observaciones, información complementaria o detalles internos sobre la campaña.
@@ -85,7 +85,7 @@ Esta sección permite ingresar la información básica de configuración de la c
 
 Esta sección está destinada a la selección de los medios que serán vinculados a la programación del Evento. El usuario puede seleccionar uno o varios medios disponibles en la lista. En caso de que un mismo medio tenga versiones en diferentes formatos, es posible seleccionar todos los formatos deseados.
 
-<img src="$WRS_MODULE$/images/imported/shared/0bf128c170404945.png" alt="image-20251031-212716.png"/>
+<img src="imported/shared/0bf128c170404945.png" alt="image-20251031-212716.png"/>
 
 1. **Campo “Buscar”**: Permite localizar un medio específico por su nombre.
 2. **Casilla de selección**: Permite seleccionar o desmarcar todos los medios listados.
@@ -101,7 +101,7 @@ Esta sección está destinada a la selección de los medios que serán vinculado
 
 Esta sesión se encarga de la selección de los *players* donde se exhibirán los medios del evento. La lista está organizada por cine y permite definir qué *players* están habilitados para recibir el medio seleccionado en la etapa anterior.
 
-<img src="$WRS_MODULE$/images/imported/shared/3882266004278810.png" alt="image-20251031-212753.png"/>
+<img src="imported/shared/3882266004278810.png" alt="image-20251031-212753.png"/>
 
 1. **Barra de búsqueda:** Campo destinado a localizar cines rápidamente mediante la introducción del nombre o código.
          Incluye un ícono de lupa para confirmar la búsqueda.
@@ -120,7 +120,7 @@ Esta sesión se encarga de la selección de los *players* donde se exhibirán lo
 
 Pantalla final que muestra una vista previa completa de la información ingresada en las etapas anteriores antes de la creación del evento.
 
-<img src="$WRS_MODULE$/images/imported/shared/a6d310abc342a703.png" alt="image-20251031-212837.png"/>
+<img src="imported/shared/a6d310abc342a703.png" alt="image-20251031-212837.png"/>
 
 1. **Detalles:** Muestra los datos generales del evento:
   - Nombre del evento.

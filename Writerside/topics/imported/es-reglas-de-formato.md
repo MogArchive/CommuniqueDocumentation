@@ -22,7 +22,7 @@
 - **Still:**692 x 540 ***(CONFIG)***
 - **Fuente:**Oswald ***(SOFTWARE)***
 
-<img src="$WRS_MODULE$/images/imported/shared/366be0029520403f.png" alt="image-20250918-175138.png"/>
+<img src="imported/shared/366be0029520403f.png" alt="image-20250918-175138.png"/>
 
 #### Layout 2x1 (CONFIG)
 
@@ -36,7 +36,7 @@
 - **Still:**692 x 540 ***(CONFIG)***
 - **Fuente:**Oswald ***(SOFTWARE)***
 
-<img src="$WRS_MODULE$/images/imported/shared/48f4601cc3ff2e40.png" alt="image-20250918-175408.png"/>
+<img src="imported/shared/48f4601cc3ff2e40.png" alt="image-20250918-175408.png"/>
 
 ---
 
@@ -56,7 +56,7 @@
 - **Still:**640 x 441 ***(CONFIG)***
 - **Fuente:**Sinkin Sans ***(SOFTWARE)***
 
-<img src="$WRS_MODULE$/images/imported/shared/438a1b59bc2b70d2.png" alt="image-20250918-175541.png"/>
+<img src="imported/shared/438a1b59bc2b70d2.png" alt="image-20250918-175541.png"/>
 
 ---
 
@@ -85,7 +85,7 @@
 - **Nombre del Producto:** 48px
 - **Precio:** 48px
 
-<img src="$WRS_MODULE$/images/imported/shared/7c169c649206ab58.png" alt="image-20250918-175814.png"/>
+<img src="imported/shared/7c169c649206ab58.png" alt="image-20250918-175814.png"/>
 
 ### **2.2 SelfService**
 
@@ -114,7 +114,7 @@
     - **Nombre del Producto:** 38px
     - **Precio:** 38px
 
-<img src="$WRS_MODULE$/images/imported/shared/93ce0099651da3ae.png" alt="image-20250918-180211.png"/>
+<img src="imported/shared/93ce0099651da3ae.png" alt="image-20250918-180211.png"/>
 
 ### **2.3 Bistrôo**
 
@@ -133,7 +133,7 @@
 - **Nombre del Producto:** 34px
 - **Precio:** 34px
 
-<img src="$WRS_MODULE$/images/imported/shared/3889ca7c2d711fea.png" alt="image-20250918-180335.png"/>
+<img src="imported/shared/3889ca7c2d711fea.png" alt="image-20250918-180335.png"/>
 
 ### **2.4 Kosher**
 
@@ -153,7 +153,7 @@
 - **Precio:** 3.5% o 38px
 - **Logo:**  12% o 240px
 
-<img src="$WRS_MODULE$/images/imported/shared/cd4dd19627a97b44.png" alt="image-20250918-180511.png"/>
+<img src="imported/shared/cd4dd19627a97b44.png" alt="image-20250918-180511.png"/>
 
 ---
 
@@ -221,15 +221,15 @@
 - **Precio Decimal:**Pequeño 3,5 % o 38 px | Mediano 4 % o 43 px | Grande 4,2 % o 45 px
 - **Precio Símbolos y Centavos:** Pequeño 2,5 % o 27 px | Mediano 3 % o 32 px | Grande 3,5 % o 38 px
 
-<img src="$WRS_MODULE$/images/imported/shared/40fc369127e7c7c9.png" alt="image-20250918-180847.png"/>
+<img src="imported/shared/40fc369127e7c7c9.png" alt="image-20250918-180847.png"/>
 
 ---
 
 ## **4. Showtimes**
 
-<img src="$WRS_MODULE$/images/imported/shared/06762cd5a775b4c3.png" alt="image-20250918-181244.png"/>
+<img src="imported/shared/06762cd5a775b4c3.png" alt="image-20250918-181244.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/ab7815cec1b85f2f.png" alt="image-20250918-181307.png"/>
+<img src="imported/shared/ab7815cec1b85f2f.png" alt="image-20250918-181307.png"/>
 
 - **Nombre de la película:** Hasta 39 caracteres (API)
 - **Censura de imagen:** 94 x 107 ***(CONFIG)***
@@ -249,7 +249,7 @@
 - **Quantidad de horários:**5 por linea ***(SOFTWARE)***
   - A partir de 5 horarios de proyección, el plugin crea una línea de tiempo doble para la película, mostrando hasta 10 horarios de proyección. Después de 10 horarios de proyección, se crea otra línea de tiempo.
 
-<img src="$WRS_MODULE$/images/imported/shared/be4edb6ca1d23178.png" alt="image-20250918-181215.png"/>
+<img src="imported/shared/be4edb6ca1d23178.png" alt="image-20250918-181215.png"/>
 
 - **Tamaño de las fuentes*****(SOFTWARE)***
   - **Título:** 35px o 3%
@@ -261,7 +261,7 @@
 
 ## **5. Prices**
 
-<img src="$WRS_MODULE$/images/imported/shared/8129de88b620dbca.png" alt="image-20250918-181532.png"/>
+<img src="imported/shared/8129de88b620dbca.png" alt="image-20250918-181532.png"/>
 
 - **Texto Topo:**Diecisiete frases de hasta 92 caracteres***(API)***
   - **Día de la semana:** 35px o 3.25%
@@ -300,7 +300,7 @@
 
 ## **6. BoxOffice**
 
-<img src="$WRS_MODULE$/images/imported/shared/b556370cfbd85bec.png" alt="image-20250918-181811.png"/>
+<img src="imported/shared/b556370cfbd85bec.png" alt="image-20250918-181811.png"/>
 
 - **Título de la película: (API)**
 - Título de la película con 1 pantalla: 59 caracteres ***(API)***
@@ -366,13 +366,13 @@
 - **Horário:** 13.3% o 144px
 - **Frases Informativas:**20px
 
-<img src="$WRS_MODULE$/images/imported/shared/e0851c5a9aa93d40.png" alt="image-20250918-182222.png"/>
+<img src="imported/shared/e0851c5a9aa93d40.png" alt="image-20250918-182222.png"/>
 
 ---
 
 ## **8. SmartPostercase**
 
-<img src="$WRS_MODULE$/images/imported/shared/4a668663b75939b7.png" alt="image-20250918-182239.png"/>
+<img src="imported/shared/4a668663b75939b7.png" alt="image-20250918-182239.png"/>
 
 - **Título de la película:** Hasta 35 caracteres - 60 px (variable) **(API)**
 - **Tráiler:**1280x720 o 1920x1080 - hasta 20 MB **(CONFIG)**

@@ -10,17 +10,17 @@
 
 En la pantalla principal "All Players", haga clic en el icono resaltado de la imagen inferior para acceder a la pantalla de edición del player.
 
-<img src="$WRS_MODULE$/images/imported/shared/bdf3d12e1217d428.png" alt="image-20251031-120601.png"/>
+<img src="imported/shared/bdf3d12e1217d428.png" alt="image-20251031-120601.png"/>
 
 1. Haciendo clic en el icono “
-  <img src="$WRS_MODULE$/images/imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
+  <img src="imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
   ” Se abre la siguiente pantalla.
 
-<img src="$WRS_MODULE$/images/imported/shared/3ffec509d6b44068.png" alt="image-20250915-124304.png"/>
+<img src="imported/shared/3ffec509d6b44068.png" alt="image-20250915-124304.png"/>
 
 1. La información sobre el player al que se ha accedido se muestra en la parte superior:
 
-<img src="$WRS_MODULE$/images/imported/shared/a560cd3128a3ddf9.png" alt="image-20250915-124421.png"/>
+<img src="imported/shared/a560cd3128a3ddf9.png" alt="image-20250915-124421.png"/>
 
 1. En el ejemplo tenemos:
 
@@ -34,13 +34,13 @@ Dónde:
 
 1. En la esquina superior derecha está la opción “**SAVE**”, haga clic siempre antes de realizar cambios.
 
-<img src="$WRS_MODULE$/images/imported/shared/65d0cd4f95b0ca4b.png" alt="image-20250915-125742.png"/>
+<img src="imported/shared/65d0cd4f95b0ca4b.png" alt="image-20250915-125742.png"/>
 
 ---
 
 ### 1.1 Configuración de la lista de reproducción
 
-<img src="$WRS_MODULE$/images/imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
+<img src="imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
 
 Los menús disponibles en la pantalla de la lista de reproducción / playlist son:
 
@@ -53,28 +53,28 @@ Los menús disponibles en la pantalla de la lista de reproducción / playlist so
 
 #### 1.1.1 Playlist
 
-<img src="$WRS_MODULE$/images/imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
+<img src="imported/shared/4caa9c1143c9eb8e.png" alt="image-20250915-152858.png"/>
 
 1. **Nombre:** Nombre da playlist
 2. **Descripción:**Breve descripción de la playlist
 3. **Formato:**El formato de los medios que componen la lista de la playlist (Ex.: 1x1, 2x1, 4x2, etc.)
 4. **Icono “**
-  <img src="$WRS_MODULE$/images/imported/shared/170b67e49cf4630d.png" alt="image-20250911-183944.png"/>
+  <img src="imported/shared/170b67e49cf4630d.png" alt="image-20250911-183944.png"/>
    **”:**Al hacer clic, se mostrará la pantalla de registro que aparece a continuación, la cual contiene los campos descritos anteriormente y también el campo “**Media Types**” para seleccionar los tipos de contenido multimedia que formarán parte de la lista de reproducción, haga clic en GUARDAR para crear la nueva lista de reproducción.
 
-<img src="$WRS_MODULE$/images/imported/shared/d9a1d9984c67bc71.png" alt="image-20250915-145716.png"/>
+<img src="imported/shared/d9a1d9984c67bc71.png" alt="image-20250915-145716.png"/>
 
 ##### **Edición de la playlist**
 
 Después de crearlo, haga clic en el icono “
 
-<img src="$WRS_MODULE$/images/imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
+<img src="imported/shared/b9b3442d2d16d14c.png" alt="image-20250915-124216.png"/>
 
 ” para editar.
 
 Se mostrará la siguiente pantalla.
 
-<img src="$WRS_MODULE$/images/imported/shared/9a2bae7310c0e61c.png" alt="image-20250916-130102.png"/>
+<img src="imported/shared/9a2bae7310c0e61c.png" alt="image-20250916-130102.png"/>
 
 1. El identificador del player/playlist aparece en la parte superior de la pantalla con el siguiente formato.
 
@@ -91,7 +91,7 @@ Dónde:
   - **V**para vertical.
 
 1. **Icono “**
-  <img src="$WRS_MODULE$/images/imported/shared/1bd793434ffe58ad.png" alt="image-20250915-181604.png"/>
+  <img src="imported/shared/1bd793434ffe58ad.png" alt="image-20250915-181604.png"/>
   ” **de expansión:**Al hacer clic en él, se muestran todos los medios que cumplen los criterios definidos cuando se creó el player/playlist. Los criterios son:
   1. **Orientación:**orientación del **player** (**H**orizontal ou **V**ertical).
   2. **Formato:** Definido al crear la **playlist**.
@@ -103,38 +103,38 @@ Haz doble clic para añadir contenido multimedia a la lista de reproducción / p
 2. A la derecha del campo de búsqueda se encuentran los Tipos de Medios seleccionados para este medio. Seleccione uno o más para alternar la visualización entre los tipos de medios.
 3. “**ORDER BY**”: Haga clic para seleccionar el orden de visualización entre **alfabético**y por **fecha de carga**.
 
-<img src="$WRS_MODULE$/images/imported/shared/1e81818a8b1edc40.png" alt="image-20250916-130338.png"/>
+<img src="imported/shared/1e81818a8b1edc40.png" alt="image-20250916-130338.png"/>
 
-1. <img src="$WRS_MODULE$/images/imported/shared/a3c110b5f90b0391.png" alt="image-20250916-124316.png"/>
+1. <img src="imported/shared/a3c110b5f90b0391.png" alt="image-20250916-124316.png"/>
   : Utilice esta opción para guardar los cambios.
-2. <img src="$WRS_MODULE$/images/imported/shared/a617071bca61b6fc.png" alt="image-20250916-124359.png"/>
+2. <img src="imported/shared/a617071bca61b6fc.png" alt="image-20250916-124359.png"/>
   : Haz clic para borrar el contenido multimedia seleccionado.
-3. <img src="$WRS_MODULE$/images/imported/shared/47463e8be11cffb9.png" alt="image-20250916-124512.png"/>
+3. <img src="imported/shared/47463e8be11cffb9.png" alt="image-20250916-124512.png"/>
   : Después de seleccionar el contenido multimedia y guardar los cambios, haga clic para mostrar el contenido multimedia tal como aparece en el player.
-4. <img src="$WRS_MODULE$/images/imported/shared/7c16e7cabd4fda26.png" alt="image-20250916-124636.png"/>
+4. <img src="imported/shared/7c16e7cabd4fda26.png" alt="image-20250916-124636.png"/>
   : Haga clic para alternar entre la visualización de segundos y minutos.
-5. <img src="$WRS_MODULE$/images/imported/shared/ba557ae13acf231f.png" alt="image-20250916-124726.png"/>
+5. <img src="imported/shared/ba557ae13acf231f.png" alt="image-20250916-124726.png"/>
   : Navegue entre los días para ver cómo está programada la lista de reproducción.
 
 Tras seleccionar el medio, la pantalla tendrá este aspecto:
 
-<img src="$WRS_MODULE$/images/imported/shared/f40067be91c340b9.png" alt="image-20250916-141841.png"/>
+<img src="imported/shared/f40067be91c340b9.png" alt="image-20250916-141841.png"/>
 
 Tenga en cuenta que el botón GUARDAR tiene un borde amarillo, lo que indica que hay cambios sin guardar.
 
 ##### **Opciones de reproducción multimedia**
 
-<img src="$WRS_MODULE$/images/imported/shared/215fe66787edacf6.png" alt="image-20251031-121508.png"/>
+<img src="imported/shared/215fe66787edacf6.png" alt="image-20251031-121508.png"/>
 
 El icono
 
-<img src="$WRS_MODULE$/images/imported/shared/d027484f02d2e1da.png" alt="image-20250916-150200.png"/>
+<img src="imported/shared/d027484f02d2e1da.png" alt="image-20250916-150200.png"/>
 
  permite seleccionar de forma personalizada el número de días que se mostrará el contenido multimedia.
 
 Cuando pasas el mouse por encima del icono
 
-<img src="$WRS_MODULE$/images/imported/shared/a92adae2ec38e100.png" alt="image-20250916-142600.png"/>
+<img src="imported/shared/a92adae2ec38e100.png" alt="image-20250916-142600.png"/>
 
  se abre un menú:
 
@@ -148,7 +148,7 @@ Cuando pasas el mouse por encima del icono
 
 5
 
-<img src="$WRS_MODULE$/images/imported/shared/76c14f6f556daf86.png" alt="image-20250916-142938.png"/>
+<img src="imported/shared/76c14f6f556daf86.png" alt="image-20250916-142938.png"/>
 
 ###### Imagen 12 - Menú de edición.
 
@@ -161,7 +161,7 @@ Cuando pasas el mouse por encima del icono
 4. Selección de visualización personalizada (días de la semana, hora del día y duración de la visualización).
 5. Eliminar media de la playlist.
 
-<img src="$WRS_MODULE$/images/imported/shared/c26a45e00ea52ccc.png" alt="image-20251031-121720.png"/>
+<img src="imported/shared/c26a45e00ea52ccc.png" alt="image-20251031-121720.png"/>
 
 Este campo muestra una vista previa del contenido multimedia seleccionado. Interactúa con los iconos para pausar/reproducir y ampliar a pantalla completa.
 
@@ -171,7 +171,7 @@ Este campo muestra una vista previa del contenido multimedia seleccionado. Inter
 
 Configuración de la cuadrícula/tarjeta del jugador. Afecta a los plugins *Showtimes, Boxoffice* e *Postercase*.
 
-<img src="$WRS_MODULE$/images/imported/shared/bb4901e4f9973a2a.png" alt="image-20250916-154145.png"/>
+<img src="imported/shared/bb4901e4f9973a2a.png" alt="image-20250916-154145.png"/>
 
 1. **Grid Path**: Dirección API de Cartelera/Grid.
 2. **Order**: Orden de importancia de las sesiones.
@@ -184,7 +184,7 @@ Configuración de la cuadrícula/tarjeta del jugador. Afecta a los plugins *Show
 
 Tiempo en minutos establecido para que el player realice cada tipo de sincronización.
 
-<img src="$WRS_MODULE$/images/imported/shared/e83f2e35dab039ad.jpg" alt="Sync.jpg"/>
+<img src="imported/shared/e83f2e35dab039ad.jpg" alt="Sync.jpg"/>
 
 ---
 
@@ -195,7 +195,7 @@ Vídeo mostrado sobre el contenido principal del player.
 - El formato del Layer sigue la misma configuración que la lista de reproducción y la configuración del player.
 - Esta función se utiliza generalmente en las taquillas de los cines.
 
-<img src="$WRS_MODULE$/images/imported/shared/fc4789bca8205fdc.jpg" alt="Layer.jpg"/>
+<img src="imported/shared/fc4789bca8205fdc.jpg" alt="Layer.jpg"/>
 
 ---
 
@@ -206,7 +206,7 @@ Contenido multimedia programado en una lista de reproducción para un evento esp
 - Al activarse, superpone todo el contenido del player.
 - Te permite definir un período de visualización (horas o días) en la configuración.
 
-<img src="$WRS_MODULE$/images/imported/shared/b6c15693fd36aaff.jpg" alt="Evento.jpg"/>
+<img src="imported/shared/b6c15693fd36aaff.jpg" alt="Evento.jpg"/>
 
 ---
 
@@ -217,4 +217,4 @@ Una función que permite superponer contenido adicional sobre el contenido princ
 - Se utiliza para mostrar anuncios o mensajes temporales.
 - El contenido principal se sigue mostrando con normalidad en segundo plano.
 
-<img src="$WRS_MODULE$/images/imported/shared/bed83b75f06a8204.png" alt="image-20250916-172157.png"/>
+<img src="imported/shared/bed83b75f06a8204.png" alt="image-20250916-172157.png"/>

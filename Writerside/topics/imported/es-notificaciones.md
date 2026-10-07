@@ -16,7 +16,7 @@ Facilita el seguimiento de actividades relevantes, como actualizaciones, avisos 
 
 ### **1. Notificaciones**
 
-<img src="$WRS_MODULE$/images/imported/shared/6f98fcdc3279183c.png" alt="image-20251031-112259.png"/>
+<img src="imported/shared/6f98fcdc3279183c.png" alt="image-20251031-112259.png"/>
 
 ### **1.1 Estadísticas de tu bandeja de entrada**
 

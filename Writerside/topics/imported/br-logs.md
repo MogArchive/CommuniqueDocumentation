@@ -14,7 +14,7 @@ A tela de **Logs** apresenta o registro detalhado de eventos, alertas e mensagen
 
 ## 1. Logs - Tela inicial
 
-<img src="$WRS_MODULE$/images/imported/shared/fcece623045b0c24.png" alt="image-20251103-145455.png"/>
+<img src="imported/shared/fcece623045b0c24.png" alt="image-20251103-145455.png"/>
 
 Na parte superior, há um campo de **busca (“Search for”)**, que possibilita filtrar registros específicos por palavra-chave, facilitando a identificação de ocorrências relacionadas a um player, serviço ou evento determinado.
 

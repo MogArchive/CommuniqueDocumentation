@@ -10,13 +10,13 @@
 
 Es la pantalla inicial de **Communique**. El *dashboard* proporciona acceso rápido a la información y a las configuraciones globales, facilitando la navegación y la gestión del sistema.
 
-<img src="$WRS_MODULE$/images/imported/shared/4b3157f8a8cf3e57.png" alt="image-20251031-113211.png"/>
+<img src="imported/shared/4b3157f8a8cf3e57.png" alt="image-20251031-113211.png"/>
 
 ---
 
 ## 1. Parte Superior
 
-<img src="$WRS_MODULE$/images/imported/shared/675fbb281926d497.png" alt="image-20251031-113321.png"/>
+<img src="imported/shared/675fbb281926d497.png" alt="image-20251031-113321.png"/>
 
 1. **País:** Permite al usuario seleccionar el país para el cual desea visualizar datos y configuraciones.
 2. **Owner:** Permite elegir entre diferentes *owners*.
@@ -35,7 +35,7 @@ Es la pantalla inicial de **Communique**. El *dashboard* proporciona acceso ráp
 
 Gráfico de monitoreo del estado de sincronización de los *players* en el sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/d6212cc3aa3c4831.png" alt="image-20251031-113546.png"/>
+<img src="imported/shared/d6212cc3aa3c4831.png" alt="image-20251031-113546.png"/>
 
 1. **Gráfico:** muestra el porcentaje de los *players* sincronizados en relación con el total de *players* del sistema.
 2. **Players Activos:** indica la cantidad de los *players* que están en funcionamiento en este momento.
@@ -49,7 +49,7 @@ Gráfico de monitoreo del estado de sincronización de los *players* en el siste
 
 Gráfico de monitoreo de las *playlists* en el sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/3f1928a72500caed.png" alt="Montagem"/>
+<img src="imported/shared/3f1928a72500caed.png" alt="Montagem"/>
 
 1. **Gráfico en X y Y:** muestra los datos de *uploads* en el eje Y en relación con cuatro fechas del último mes en el eje X.
 2. **Playlists Activas:** indica el número de *playlists* que están actualmente activas en el sistema.
@@ -62,7 +62,7 @@ Gráfico de monitoreo de las *playlists* en el sistema:
 
 Gráfico de monitoreo de eventos, lobbys, campañas y layers en el sistema:
 
-<img src="$WRS_MODULE$/images/imported/shared/d013275064e3851d.png" alt="image-20251031-114001.png"/>
+<img src="imported/shared/d013275064e3851d.png" alt="image-20251031-114001.png"/>
 
 1. **Calendario:** muestra el mes actual y sus días, indicando la información programada para cada uno.
 2. **Leyenda de Colores:**
@@ -78,7 +78,7 @@ Gráfico de monitoreo de eventos, lobbys, campañas y layers en el sistema:
 
 Gráfico de monitoreo de los errores de API:
 
-<img src="$WRS_MODULE$/images/imported/shared/2e774b5ba618939a.png" alt="image-20251031-114136.png"/>
+<img src="imported/shared/2e774b5ba618939a.png" alt="image-20251031-114136.png"/>
 
 1. **Gráfico de Porcentaje:** muestra la cantidad de errores de API representados en forma de porcentaje.
 2. **Intervalos de Tiempo:** presenta los datos de errores de API correspondientes a hoy, la última semana y el último mes.
@@ -89,7 +89,7 @@ Gráfico de monitoreo de los errores de API:
 
 Gráfico de monitoreo de los errores de los *players*:
 
-<img src="$WRS_MODULE$/images/imported/shared/c8a75b250ac657c3.png" alt="image-20251031-114225.png"/>
+<img src="imported/shared/c8a75b250ac657c3.png" alt="image-20251031-114225.png"/>
 
 1. **Gráfico de Porcentaje:** muestra la cantidad de errores de los *players* representados en forma de porcentaje.
 2. **Intervalos de Tiempo:** presenta los datos de errores de los *players* correspondientes a hoy, la última semana y el último mes.

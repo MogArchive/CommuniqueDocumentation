@@ -12,7 +12,7 @@ Seção destinada à criação dos player utilizados no sistema.
 
 Dividida em “**All Players**” e “**Player Group**”.
 
-<img src="$WRS_MODULE$/images/imported/shared/a4be1d6bc552b3b7.png" alt="image-20250912-200041.png"/>
+<img src="imported/shared/a4be1d6bc552b3b7.png" alt="image-20250912-200041.png"/>
 
 ---
 
@@ -20,7 +20,7 @@ Dividida em “**All Players**” e “**Player Group**”.
 
 Tela de cadastro dos players.
 
-<img src="$WRS_MODULE$/images/imported/shared/f78291c7aeba97ea.png" alt="image-20250912-195556.png"/>
+<img src="imported/shared/f78291c7aeba97ea.png" alt="image-20250912-195556.png"/>
 
 ---
 
@@ -28,7 +28,7 @@ Tela de cadastro dos players.
 
 Campos de pesquisa dos players cadastrados.
 
-<img src="$WRS_MODULE$/images/imported/shared/386284ca33ac3138.png" alt="image-20250912-202318.png"/>
+<img src="imported/shared/386284ca33ac3138.png" alt="image-20250912-202318.png"/>
 
 1. **Search:**Busca na coluna *Player.*
 2. **Owner:**Busca na coluna *Owner.*
@@ -42,7 +42,7 @@ Campos de pesquisa dos players cadastrados.
 
 Gerenciamento dos players cadastrados.
 
-<img src="$WRS_MODULE$/images/imported/shared/64e7cec5379b1217.png" alt="image-20250912-203453.png"/>
+<img src="imported/shared/64e7cec5379b1217.png" alt="image-20250912-203453.png"/>
 
 1. **Owner:** Empresa responsável pelo player.
 2. **Theater:** Nome do cinema onde o player está instalado.
@@ -58,17 +58,17 @@ Gerenciamento dos players cadastrados.
 
 Ao clicar no ícone “
 
-<img src="$WRS_MODULE$/images/imported/shared/05e9b78f34d3bc0b.png" alt="image-20250912-204757.png"/>
+<img src="imported/shared/05e9b78f34d3bc0b.png" alt="image-20250912-204757.png"/>
 
 ” a tela para a criação de um novo player será exibida:
 
-<img src="$WRS_MODULE$/images/imported/shared/026d5f65f97d788c.png" alt="image-20250912-204630.png"/>
+<img src="imported/shared/026d5f65f97d788c.png" alt="image-20250912-204630.png"/>
 
-<img src="$WRS_MODULE$/images/imported/shared/a43a6c0247b79cea.png" alt="image-20250912-204648.png"/>
+<img src="imported/shared/a43a6c0247b79cea.png" alt="image-20250912-204648.png"/>
 
 #### 1.3.1 Information
 
-<img src="$WRS_MODULE$/images/imported/shared/0ab9991c00b954cb.png" alt="image-20250912-210605.png"/>
+<img src="imported/shared/0ab9991c00b954cb.png" alt="image-20250912-210605.png"/>
 
 1. **Name:** Nome dado ao player para melhor identificação.
 2. **Hostname:** Nome atribuído ao dispositivo dentro de uma rede, podendo ser um computador, servidor ou outro equipamento. Pode ser verificado digitando o comando `hostname` no prompt de comando.
@@ -79,7 +79,7 @@ Ao clicar no ícone “
 
 #### 1.3.2 Display
 
-<img src="$WRS_MODULE$/images/imported/shared/634681f3f8237167.png" alt="image-20250912-210701.png"/>
+<img src="imported/shared/634681f3f8237167.png" alt="image-20250912-210701.png"/>
 
 1. **Monitor:** Modelo do monitor utilizado.
 2. **Inches:**Quantidade de polegadas do monitor.
@@ -95,11 +95,11 @@ Definição de quantas máquinas e/ou saídas de vídeo serão utilizadas por es
 
 É necessário que haja ao menos uma máquina e uma saída de vídeo.
 
-<img src="$WRS_MODULE$/images/imported/shared/a9c24fcf315aea7f.png" alt="image-20250912-211037.png"/>
+<img src="imported/shared/a9c24fcf315aea7f.png" alt="image-20250912-211037.png"/>
 
 #### 1.3.4 Options
 
-<img src="$WRS_MODULE$/images/imported/shared/3c444d3ef59ef5ed.png" alt="image-20250912-211215.png"/>
+<img src="imported/shared/3c444d3ef59ef5ed.png" alt="image-20250912-211215.png"/>
 
 1. **Prevent:**Item de segurança que ao ser ativado, previne que o player faça algum tipo de download.
   1. **Config Prevent Sync:**Bloqueio de atualização das configurações no player.
@@ -112,7 +112,7 @@ Definição de quantas máquinas e/ou saídas de vídeo serão utilizadas por es
 
 #### 1.3.5 Observation e Image
 
-<img src="$WRS_MODULE$/images/imported/shared/b00de49dc3a27f04.png" alt="image-20250912-212203.png"/>
+<img src="imported/shared/b00de49dc3a27f04.png" alt="image-20250912-212203.png"/>
 
 1. **Observation:**Campo destinado à alguma anotação específica do player.
 2. **Image:**Foto do player sendo exibido no cinema.
@@ -141,25 +141,25 @@ Continue clicando [**aqui**](br-regras-de-formatacao.md)**.**
 
 Agrupamento de players para programação de mídias e campanhas.
 
-<img src="$WRS_MODULE$/images/imported/shared/381a9ba230ca6f42.png" alt="image-20250918-183300.png"/>
+<img src="imported/shared/381a9ba230ca6f42.png" alt="image-20250918-183300.png"/>
 
 1. **Name:**Nome do grupo.
 2. **Description**:****Descrição do grupo ou conteúdo.
 3. **Duplicate**
-  <img src="$WRS_MODULE$/images/imported/shared/1295b2b2af3c8e6b.png" alt="Duplica pg"/>
+  <img src="imported/shared/1295b2b2af3c8e6b.png" alt="Duplica pg"/>
   : Duplica um playergroup já existente
 4. **Delete**
-  <img src="$WRS_MODULE$/images/imported/shared/045b7f531c2bb73f.png" alt="Delete pg"/>
+  <img src="imported/shared/045b7f531c2bb73f.png" alt="Delete pg"/>
   : Deleta o playergroup
 
 O recurso conta com filtros por nome de player, cinema, locate e categoria. Ao clicar em um player da lista Players, ele é automaticamente enviado para a lista Players selected. Também é possível utilizar o botão
 
-<img src="$WRS_MODULE$/images/imported/shared/7540b4fdbee23019.png" alt="Ida pg"/>
+<img src="imported/shared/7540b4fdbee23019.png" alt="Ida pg"/>
 
  para que todos os players filtrados sejam eviados para a lista da direita. Ao clicar em
 
-<img src="$WRS_MODULE$/images/imported/shared/63f3decc3d2b1b3d.png" alt="Volta pg"/>
+<img src="imported/shared/63f3decc3d2b1b3d.png" alt="Volta pg"/>
 
 , os players saem da lista de selecionados e voltam para a lista geral.
 
-<img src="$WRS_MODULE$/images/imported/shared/759005f8a35af28b.png" alt="image-20250918-183420.png"/>
+<img src="imported/shared/759005f8a35af28b.png" alt="image-20250918-183420.png"/>

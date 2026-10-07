@@ -18,10 +18,10 @@ Durante la visualización, **Layer** se presenta como un vídeo o una imagen ani
 
 ## 1. Layer - Pantalla inicial
 
-<img src="$WRS_MODULE$/images/imported/shared/e290b2642b116418.png" alt="image-20251031-213018.png"/>
+<img src="imported/shared/e290b2642b116418.png" alt="image-20251031-213018.png"/>
 
 1. **Ícono**
-  <img src="$WRS_MODULE$/images/imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
+  <img src="imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
   : **Inicia la programación de Layers.**
 2. **Filtros:**
   - **Todos:** Muestra todas las programaciones.
@@ -32,7 +32,7 @@ Durante la visualización, **Layer** se presenta como un vídeo o una imagen ani
 
 ### 1.1 Layer - Cards
 
-<img src="$WRS_MODULE$/images/imported/shared/27a99abe5ac43058.png" alt="image-20251031-213122.png"/>
+<img src="imported/shared/27a99abe5ac43058.png" alt="image-20251031-213122.png"/>
 
 1. **Imagen:** Imagen referente al medio programado.
 2. **Nombre:** Nombre utilizado en la programación del Layer.
@@ -46,11 +46,11 @@ Durante la visualización, **Layer** se presenta como un vídeo o una imagen ani
 
 Clique no icono
 
-<img src="$WRS_MODULE$/images/imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
+<img src="imported/shared/ba78fe0bdc07f676.png" alt="image-20251029-180815.png"/>
 
  para iniciar a **programación del*****Layer***.
 
-<img src="$WRS_MODULE$/images/imported/shared/69576c3c2a7525a4.png" alt="image-20251031-213213.png"/>
+<img src="imported/shared/69576c3c2a7525a4.png" alt="image-20251031-213213.png"/>
 
 La programación se divide en 4 fases:
 
@@ -65,7 +65,7 @@ La programación se divide en 4 fases:
 
 Esta sección permite ingresar la información básica de configuración de la campaña antes de continuar con las siguientes etapas.
 
-<img src="$WRS_MODULE$/images/imported/shared/8125eecbb1fba33d.png" alt="image-20251031-213245.png"/>
+<img src="imported/shared/8125eecbb1fba33d.png" alt="image-20251031-213245.png"/>
 
 1.
 2. **Nombre** – Campo destinado a ingresar el nombre de la programación, campaña o evento que se está configurando.
@@ -87,7 +87,7 @@ Esta sección permite ingresar la información básica de configuración de la c
 Esta sección está destinada a la selección de los medios que serán vinculados a la programación.
 El usuario puede seleccionar uno o varios medios disponibles en la lista. En caso de que un mismo medio tenga versiones en diferentes formatos, es posible seleccionar todos los formatos deseados.
 
-<img src="$WRS_MODULE$/images/imported/shared/1def09777e84f622.png" alt="image-20251031-213331.png"/>
+<img src="imported/shared/1def09777e84f622.png" alt="image-20251031-213331.png"/>
 
 1. **Campo “Buscar”:** Permite localizar un medio específico por su nombre.
 2. **Casilla de selección:** Permite seleccionar o desmarcar todos los medios listados.
@@ -103,7 +103,7 @@ El usuario puede seleccionar uno o varios medios disponibles en la lista. En cas
 
 Esta sección se encarga de la selección de los **players** donde se mostrarán los medios de la programación. La lista está organizada por cine y permite definir qué **players** están habilitados para recibir el medio seleccionado en la etapa anterior.
 
-<img src="$WRS_MODULE$/images/imported/shared/4d1e5dff54cc58bb.png" alt="image-20251031-213358.png"/>
+<img src="imported/shared/4d1e5dff54cc58bb.png" alt="image-20251031-213358.png"/>
 
 1. **Barra de búsqueda:** Campo para localizar cines rápidamente ingresando su nombre o código.
   Incluye un ícono de lupa para confirmar la búsqueda.
@@ -122,7 +122,7 @@ Esta sección se encarga de la selección de los **players** donde se mostrarán
 
 Pantalla final que presenta una vista previa completa de la información ingresada en las etapas anteriores antes de crear la programación.
 
-<img src="$WRS_MODULE$/images/imported/shared/23a4283f78ec1147.png" alt="image-20251031-213443.png"/>
+<img src="imported/shared/23a4283f78ec1147.png" alt="image-20251031-213443.png"/>
 
 1. **Detalles:** Muestra los datos generales de la programación:
   - Nombre
