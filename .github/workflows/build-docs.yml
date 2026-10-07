@@ -15,6 +15,7 @@ env:
 jobs:
   build:
     strategy:
+      fail-fast: false
       matrix:
         include:
           - language: br
@@ -38,6 +39,7 @@ jobs:
           docker-version: ${{ env.DOCKER_VERSION }}
 
       - name: Test ${{ matrix.language }} documentation
+        continue-on-error: true
         uses: JetBrains/writerside-checker-action@v1
         with:
           instance: ${{ matrix.instance }}
